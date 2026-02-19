@@ -10,11 +10,13 @@ services:
     env: node
     plan: free
     autoDeploy: true
-    buildCommand: npm install && npm run build
+    buildCommand: npm install --include=dev && npm run build
     startCommand: sh -c "npm run prisma:deploy && npm run start"
     envVars:
       - key: NODE_VERSION
         value: 22
+      - key: NPM_CONFIG_PRODUCTION
+        value: "false"
       - key: NODE_ENV
         value: production
       - key: DATABASE_URL
@@ -66,11 +68,13 @@ services:
     env: node
     plan: free
     autoDeploy: true
-    buildCommand: npm install && npm run build
+    buildCommand: npm install --include=dev && npm run build
     startCommand: sh -c "npm run prisma:deploy && npm run worker"
     envVars:
       - key: NODE_VERSION
         value: 22
+      - key: NPM_CONFIG_PRODUCTION
+        value: "false"
       - key: NODE_ENV
         value: production
       - key: DATABASE_URL
