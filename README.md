@@ -6,6 +6,21 @@ Production-oriented Next.js app that generates live, data-driven tier lists for 
 
 The UI renders separate tier lists for Mythic+ and Raid, each split by role (DPS, Tank, Healer) with spec details, build aggregation, stat priority derivation, and evidence links.
 
+## Deploy Online (Render)
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/protorox/wow-retail-tier-list)
+
+This repo includes a `render.yaml` Blueprint that provisions:
+- web service
+- worker service
+- PostgreSQL
+- Redis
+
+Default Blueprint env uses `MOCK_MODE=true` so it comes up with working sample data quickly.
+To switch to live data after deploy, set `MOCK_MODE=false` and add:
+- `WARCRAFTLOGS_CLIENT_ID`
+- `WARCRAFTLOGS_CLIENT_SECRET`
+
 ## Stack
 
 - TypeScript everywhere
