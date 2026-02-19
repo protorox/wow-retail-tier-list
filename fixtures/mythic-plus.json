@@ -1,0 +1,7202 @@
+[
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 20.58,
+    "timed": false,
+    "buildString": "Mage-Fire-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4452.26,
+      "Haste": 4188.81,
+      "Mastery": 3809.76,
+      "Vers": 3623.08
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-1"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 21.7,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4228.06,
+      "Haste": 4124.87,
+      "Mastery": 3884.27,
+      "Vers": 3553.25
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-2"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 21.93,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4316.26,
+      "Haste": 3992.59,
+      "Mastery": 3763.04,
+      "Vers": 3672.74
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-3"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 20.11,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4298.14,
+      "Haste": 4111.67,
+      "Mastery": 3720.1,
+      "Vers": 3685.94
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-4"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 20.36,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4286.85,
+      "Haste": 4013.77,
+      "Mastery": 3741.76,
+      "Vers": 3509.99
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-5"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 21.21,
+    "timed": false,
+    "buildString": "Mage-Fire-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4309.96,
+      "Haste": 4166.14,
+      "Mastery": 3951.38,
+      "Vers": 3700.77
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-6"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 22.11,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4218.07,
+      "Haste": 4061.67,
+      "Mastery": 3740.82,
+      "Vers": 3545.96
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-7"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 20.19,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4381.04,
+      "Haste": 3956.81,
+      "Mastery": 3770.21,
+      "Vers": 3586.51
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-8"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 21.97,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4313.36,
+      "Haste": 4018.9,
+      "Mastery": 3817.28,
+      "Vers": 3468.14
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-9"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 20.26,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4429.91,
+      "Haste": 4004.19,
+      "Mastery": 3757.62,
+      "Vers": 3703.87
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-10"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 21.1,
+    "timed": false,
+    "buildString": "Mage-Fire-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4433.25,
+      "Haste": 3987.52,
+      "Mastery": 3776.86,
+      "Vers": 3548.71
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-11"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 20.87,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4313.33,
+      "Haste": 4064.67,
+      "Mastery": 3815.59,
+      "Vers": 3567.2
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-12"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 20.99,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4320.46,
+      "Haste": 4067.93,
+      "Mastery": 3807.69,
+      "Vers": 3534.5
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-13"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 20.26,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4431.78,
+      "Haste": 4075.42,
+      "Mastery": 3932.39,
+      "Vers": 3471.15
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-14"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 22.37,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4351.7,
+      "Haste": 4154.27,
+      "Mastery": 3840.2,
+      "Vers": 3651.88
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-15"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 20.96,
+    "timed": false,
+    "buildString": "Mage-Fire-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4306.12,
+      "Haste": 4117.61,
+      "Mastery": 3712.7,
+      "Vers": 3588.03
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-16"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 22.41,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4290.35,
+      "Haste": 4075.12,
+      "Mastery": 3775.72,
+      "Vers": 3623.4
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-17"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 21.17,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4370.07,
+      "Haste": 3956.59,
+      "Mastery": 3825.35,
+      "Vers": 3682.77
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-18"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 20.29,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4214.71,
+      "Haste": 4087.65,
+      "Mastery": 3806.13,
+      "Vers": 3592.28
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-19"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 21.98,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4202.37,
+      "Haste": 3956.84,
+      "Mastery": 3880.1,
+      "Vers": 3670.71
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-20"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 20.83,
+    "timed": false,
+    "buildString": "Mage-Fire-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4454.99,
+      "Haste": 4112.7,
+      "Mastery": 3725.89,
+      "Vers": 3510.22
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-21"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 22.14,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4402.61,
+      "Haste": 4169.71,
+      "Mastery": 3926.1,
+      "Vers": 3625.35
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-22"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 20.24,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4435.12,
+      "Haste": 4201.28,
+      "Mastery": 3721.66,
+      "Vers": 3468.52
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-23"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 21.93,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4440.04,
+      "Haste": 4058.6,
+      "Mastery": 3711.49,
+      "Vers": 3610.53
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-24"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 22.46,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4424.44,
+      "Haste": 3993.12,
+      "Mastery": 3875.66,
+      "Vers": 3504.26
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-25"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 21.55,
+    "timed": false,
+    "buildString": "Mage-Fire-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4359.38,
+      "Haste": 3981.33,
+      "Mastery": 3940.27,
+      "Vers": 3669.62
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-26"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 21.88,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4284.99,
+      "Haste": 4089.71,
+      "Mastery": 3742.28,
+      "Vers": 3458.17
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-27"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 22.58,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4414.28,
+      "Haste": 4058.05,
+      "Mastery": 3852.31,
+      "Vers": 3495.31
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-28"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 20.22,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4453.97,
+      "Haste": 4179.55,
+      "Mastery": 3853.78,
+      "Vers": 3698.49
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-29"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 22.26,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4220.56,
+      "Haste": 4095.62,
+      "Mastery": 3736.59,
+      "Vers": 3629.5
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-30"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 20.4,
+    "timed": false,
+    "buildString": "Mage-Fire-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4249.84,
+      "Haste": 4184.01,
+      "Mastery": 3723.61,
+      "Vers": 3619.48
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-31"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 21.41,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4318.52,
+      "Haste": 4078.55,
+      "Mastery": 3828.63,
+      "Vers": 3544.9
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-32"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 20.28,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4296.22,
+      "Haste": 4039.2,
+      "Mastery": 3924.29,
+      "Vers": 3673.36
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-33"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 20.93,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4206.92,
+      "Haste": 3971.16,
+      "Mastery": 3798.88,
+      "Vers": 3678.03
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-34"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 21.6,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4278.52,
+      "Haste": 3991.93,
+      "Mastery": 3720.93,
+      "Vers": 3459.71
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-35"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 20.34,
+    "timed": false,
+    "buildString": "Mage-Fire-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4459.72,
+      "Haste": 4205.67,
+      "Mastery": 3950.86,
+      "Vers": 3695.83
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-36"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 22.65,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4443.72,
+      "Haste": 4204.1,
+      "Mastery": 3719.19,
+      "Vers": 3515.9
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-37"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 21.71,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4458.08,
+      "Haste": 4113.61,
+      "Mastery": 3830.9,
+      "Vers": 3623.08
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-38"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 20.79,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4220.73,
+      "Haste": 4068.54,
+      "Mastery": 3795.88,
+      "Vers": 3681.89
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-39"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Fire",
+    "keyLevel": 20.64,
+    "timed": true,
+    "buildString": "Mage-Fire-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4222.24,
+      "Haste": 4190.62,
+      "Mastery": 3885.68,
+      "Vers": 3592.24
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-fire-40"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 20.11,
+    "timed": false,
+    "buildString": "Mage-Frost-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4394.44,
+      "Haste": 4035.03,
+      "Mastery": 3796.97,
+      "Vers": 3450.31
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-1"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 19.65,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4326.19,
+      "Haste": 4103.65,
+      "Mastery": 3902.28,
+      "Vers": 3496.82
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-2"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 21.18,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4246.95,
+      "Haste": 3966.27,
+      "Mastery": 3888.93,
+      "Vers": 3533.78
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-3"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 18.86,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4439.08,
+      "Haste": 4010.81,
+      "Mastery": 3727.24,
+      "Vers": 3630.61
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-4"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 19.3,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4380.24,
+      "Haste": 4063.89,
+      "Mastery": 3849.22,
+      "Vers": 3521.19
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-5"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 20.68,
+    "timed": false,
+    "buildString": "Mage-Frost-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4217,
+      "Haste": 4082.83,
+      "Mastery": 3759.21,
+      "Vers": 3552.97
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-6"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 19.41,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4411.42,
+      "Haste": 4061.07,
+      "Mastery": 3757.97,
+      "Vers": 3550.06
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-7"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 19.18,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4342.02,
+      "Haste": 4188.17,
+      "Mastery": 3802.01,
+      "Vers": 3491.71
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-8"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 19.97,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4281.03,
+      "Haste": 3966.58,
+      "Mastery": 3919.76,
+      "Vers": 3668.15
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-9"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 19.55,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4249.64,
+      "Haste": 4186.63,
+      "Mastery": 3846.54,
+      "Vers": 3535.48
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-10"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 19.95,
+    "timed": false,
+    "buildString": "Mage-Frost-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4433.05,
+      "Haste": 3961.88,
+      "Mastery": 3700.1,
+      "Vers": 3691.6
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-11"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 21.52,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4297.25,
+      "Haste": 4006.35,
+      "Mastery": 3878.57,
+      "Vers": 3694.78
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-12"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 19.38,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4309.26,
+      "Haste": 4195.72,
+      "Mastery": 3922.55,
+      "Vers": 3526.88
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-13"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 20.07,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4282.59,
+      "Haste": 3994.06,
+      "Mastery": 3723.18,
+      "Vers": 3502.75
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-14"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 20.66,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4329.62,
+      "Haste": 4187.69,
+      "Mastery": 3957.68,
+      "Vers": 3667.43
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-15"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 20.48,
+    "timed": false,
+    "buildString": "Mage-Frost-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4262.33,
+      "Haste": 4207.85,
+      "Mastery": 3933.82,
+      "Vers": 3462.65
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-16"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 20.42,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4302.87,
+      "Haste": 4143.33,
+      "Mastery": 3864.8,
+      "Vers": 3483.87
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-17"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 19.87,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4245.11,
+      "Haste": 4164.41,
+      "Mastery": 3775.52,
+      "Vers": 3608.93
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-18"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 21.22,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4448.29,
+      "Haste": 3958.92,
+      "Mastery": 3721.21,
+      "Vers": 3479.32
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-19"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 19.53,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4243.42,
+      "Haste": 4001.39,
+      "Mastery": 3759.18,
+      "Vers": 3514.59
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-20"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 19.82,
+    "timed": false,
+    "buildString": "Mage-Frost-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4253.18,
+      "Haste": 3975.62,
+      "Mastery": 3934.23,
+      "Vers": 3600.48
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-21"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 19.46,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4305.58,
+      "Haste": 4071.15,
+      "Mastery": 3757.84,
+      "Vers": 3610.93
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-22"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 20.73,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4221.49,
+      "Haste": 3953.55,
+      "Mastery": 3781.23,
+      "Vers": 3683.9
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-23"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 20.99,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4355.98,
+      "Haste": 4088.48,
+      "Mastery": 3802.15,
+      "Vers": 3470.81
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-24"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 20.5,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4333.02,
+      "Haste": 3958.97,
+      "Mastery": 3944.71,
+      "Vers": 3478.95
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-25"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 20.35,
+    "timed": false,
+    "buildString": "Mage-Frost-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4392.95,
+      "Haste": 4195.4,
+      "Mastery": 3931.81,
+      "Vers": 3566.29
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-26"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 20.49,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4411.9,
+      "Haste": 4037.22,
+      "Mastery": 3929.05,
+      "Vers": 3527.6
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-27"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 20.42,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4232.2,
+      "Haste": 4005.26,
+      "Mastery": 3839.11,
+      "Vers": 3690.72
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-28"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 19.9,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4262.35,
+      "Haste": 4163.64,
+      "Mastery": 3905.3,
+      "Vers": 3701.81
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-29"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 19.83,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4265.35,
+      "Haste": 4209.48,
+      "Mastery": 3762.7,
+      "Vers": 3657.82
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-30"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 20.62,
+    "timed": false,
+    "buildString": "Mage-Frost-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4233.78,
+      "Haste": 4089.14,
+      "Mastery": 3835.54,
+      "Vers": 3684.89
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-31"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 20.66,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4229.89,
+      "Haste": 4099.18,
+      "Mastery": 3878.78,
+      "Vers": 3520.6
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-32"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 19.79,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4229.09,
+      "Haste": 3950.19,
+      "Mastery": 3862.46,
+      "Vers": 3658.63
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-33"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 20.34,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4224.93,
+      "Haste": 4171.96,
+      "Mastery": 3816.77,
+      "Vers": 3633.73
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-34"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 20.61,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4333.73,
+      "Haste": 4137.77,
+      "Mastery": 3936.03,
+      "Vers": 3685.31
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-35"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 20.88,
+    "timed": false,
+    "buildString": "Mage-Frost-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4377.12,
+      "Haste": 3986.3,
+      "Mastery": 3899.87,
+      "Vers": 3557.82
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-36"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 21.84,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4240.6,
+      "Haste": 4199.19,
+      "Mastery": 3749.73,
+      "Vers": 3636.14
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-37"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 20.53,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4226.48,
+      "Haste": 4132.62,
+      "Mastery": 3719.06,
+      "Vers": 3474.25
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-38"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 21.17,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4359.46,
+      "Haste": 4181.32,
+      "Mastery": 3795.6,
+      "Vers": 3695.82
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-39"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Frost",
+    "keyLevel": 20.89,
+    "timed": true,
+    "buildString": "Mage-Frost-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4203.52,
+      "Haste": 4033.46,
+      "Mastery": 3794.3,
+      "Vers": 3465.1
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/mage-frost-40"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 18.83,
+    "timed": false,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4228.58,
+      "Haste": 4035.2,
+      "Mastery": 3939.68,
+      "Vers": 3666.98
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-1"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 18.05,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4305.99,
+      "Haste": 4203.74,
+      "Mastery": 3876.42,
+      "Vers": 3575.16
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-2"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 18.93,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4271.63,
+      "Haste": 4007.93,
+      "Mastery": 3747.43,
+      "Vers": 3487.59
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-3"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 18.32,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4216.09,
+      "Haste": 3955.72,
+      "Mastery": 3958.58,
+      "Vers": 3708.52
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-4"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 18.18,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4241.24,
+      "Haste": 4048.02,
+      "Mastery": 3889.83,
+      "Vers": 3516.81
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-5"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 18.1,
+    "timed": false,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4203.02,
+      "Haste": 4038.68,
+      "Mastery": 3712.39,
+      "Vers": 3500.4
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-6"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 20.24,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4220.3,
+      "Haste": 4200.64,
+      "Mastery": 3852.12,
+      "Vers": 3456.86
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-7"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 19.08,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4390.1,
+      "Haste": 3998.36,
+      "Mastery": 3919.36,
+      "Vers": 3660.65
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-8"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 18.65,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4229.5,
+      "Haste": 4127.27,
+      "Mastery": 3705.71,
+      "Vers": 3517.36
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-9"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 19.48,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4445.01,
+      "Haste": 4120.63,
+      "Mastery": 3908.62,
+      "Vers": 3585.93
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-10"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 20.61,
+    "timed": false,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4270.22,
+      "Haste": 4105,
+      "Mastery": 3724.62,
+      "Vers": 3689.78
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-11"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 18.81,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4252.81,
+      "Haste": 4205.29,
+      "Mastery": 3892.48,
+      "Vers": 3618.12
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-12"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 20.42,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4352.28,
+      "Haste": 4200.75,
+      "Mastery": 3747.53,
+      "Vers": 3558.64
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-13"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 20.38,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4369.7,
+      "Haste": 3953.39,
+      "Mastery": 3728.79,
+      "Vers": 3483.41
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-14"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 18.9,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4371.27,
+      "Haste": 4090.36,
+      "Mastery": 3720.32,
+      "Vers": 3569.3
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-15"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 20.47,
+    "timed": false,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4327.04,
+      "Haste": 4082.11,
+      "Mastery": 3728.75,
+      "Vers": 3574.94
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-16"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 20.32,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4267.01,
+      "Haste": 3957.98,
+      "Mastery": 3778.59,
+      "Vers": 3515.77
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-17"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 18.5,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4435.96,
+      "Haste": 4201.17,
+      "Mastery": 3807.26,
+      "Vers": 3559.32
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-18"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 18.76,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4409.24,
+      "Haste": 4084.8,
+      "Mastery": 3821.64,
+      "Vers": 3662.19
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-19"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 20.19,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4291.05,
+      "Haste": 4171.01,
+      "Mastery": 3797.93,
+      "Vers": 3470.87
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-20"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 18.67,
+    "timed": false,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4357.18,
+      "Haste": 4134.74,
+      "Mastery": 3846.65,
+      "Vers": 3527.9
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-21"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 18.54,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4443.86,
+      "Haste": 3974.01,
+      "Mastery": 3864.31,
+      "Vers": 3625.07
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-22"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 19.26,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4384.18,
+      "Haste": 4188.05,
+      "Mastery": 3713.39,
+      "Vers": 3505.32
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-23"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 19.69,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4453.8,
+      "Haste": 4145,
+      "Mastery": 3932.06,
+      "Vers": 3574.42
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-24"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 19.93,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4267.01,
+      "Haste": 4100.23,
+      "Mastery": 3854.72,
+      "Vers": 3543.96
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-25"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 20.81,
+    "timed": false,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4284.4,
+      "Haste": 4106.36,
+      "Mastery": 3904.58,
+      "Vers": 3686.31
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-26"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 21,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4212.96,
+      "Haste": 3976.05,
+      "Mastery": 3738.98,
+      "Vers": 3502.64
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-27"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 19.18,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4279.41,
+      "Haste": 4037.94,
+      "Mastery": 3788.08,
+      "Vers": 3524.35
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-28"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 18.94,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4437.13,
+      "Haste": 4086.41,
+      "Mastery": 3947.39,
+      "Vers": 3488.32
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-29"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 18.74,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4366.99,
+      "Haste": 4165.14,
+      "Mastery": 3844.1,
+      "Vers": 3646.07
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-30"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 19.49,
+    "timed": false,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4272,
+      "Haste": 4064.53,
+      "Mastery": 3897.25,
+      "Vers": 3486.62
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-31"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 19.85,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4385.59,
+      "Haste": 4132.66,
+      "Mastery": 3791.33,
+      "Vers": 3592.7
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-32"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 19.09,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4233,
+      "Haste": 4019.19,
+      "Mastery": 3822.65,
+      "Vers": 3609.67
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-33"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 20.06,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4245,
+      "Haste": 4031.48,
+      "Mastery": 3917.89,
+      "Vers": 3606.25
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-34"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 19.81,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4263.13,
+      "Haste": 4161.97,
+      "Mastery": 3703.46,
+      "Vers": 3626.04
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-35"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 20.31,
+    "timed": false,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4395.15,
+      "Haste": 4165.56,
+      "Mastery": 3884.84,
+      "Vers": 3508.61
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-36"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 19.22,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4319.58,
+      "Haste": 4165.71,
+      "Mastery": 3734.22,
+      "Vers": 3498.63
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-37"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 20.78,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4417.62,
+      "Haste": 3967.78,
+      "Mastery": 3785.03,
+      "Vers": 3561.63
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-38"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 19.24,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4311.1,
+      "Haste": 4197.85,
+      "Mastery": 3851.73,
+      "Vers": 3484.57
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-39"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Affliction",
+    "keyLevel": 19.82,
+    "timed": true,
+    "buildString": "Warlock-Affliction-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4264.49,
+      "Haste": 4065.41,
+      "Mastery": 3913.04,
+      "Vers": 3499.6
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warlock-affliction-40"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 18.14,
+    "timed": false,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4249.4,
+      "Haste": 4068.13,
+      "Mastery": 3956.87,
+      "Vers": 3609.08
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-1"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 17.59,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4309.62,
+      "Haste": 4016.76,
+      "Mastery": 3825.06,
+      "Vers": 3690.08
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-2"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 18.28,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4404.91,
+      "Haste": 4178.45,
+      "Mastery": 3836.19,
+      "Vers": 3596.51
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-3"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 19.36,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4251.67,
+      "Haste": 4076.64,
+      "Mastery": 3844.51,
+      "Vers": 3517.21
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-4"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 18.41,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4458.85,
+      "Haste": 4145.74,
+      "Mastery": 3853.4,
+      "Vers": 3548
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-5"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 19.77,
+    "timed": false,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4277.3,
+      "Haste": 3999.01,
+      "Mastery": 3841.74,
+      "Vers": 3516.46
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-6"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 17.85,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4281.01,
+      "Haste": 4068.03,
+      "Mastery": 3841.46,
+      "Vers": 3577.61
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-7"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 17.86,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4358.96,
+      "Haste": 4112.43,
+      "Mastery": 3745.23,
+      "Vers": 3499.41
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-8"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 18.88,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4296.08,
+      "Haste": 4058.68,
+      "Mastery": 3882.89,
+      "Vers": 3496.82
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-9"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 19.4,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4342.53,
+      "Haste": 4046.75,
+      "Mastery": 3765.61,
+      "Vers": 3493.5
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-10"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 17.65,
+    "timed": false,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4210.19,
+      "Haste": 4204.11,
+      "Mastery": 3937.26,
+      "Vers": 3670.39
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-11"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 19.4,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4395.93,
+      "Haste": 4146.18,
+      "Mastery": 3912.1,
+      "Vers": 3700.77
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-12"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 18.02,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4371.04,
+      "Haste": 4023.08,
+      "Mastery": 3738.76,
+      "Vers": 3531.39
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-13"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 19.53,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4396.88,
+      "Haste": 3992.43,
+      "Mastery": 3730.29,
+      "Vers": 3629.79
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-14"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 19.9,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4206.68,
+      "Haste": 4198.44,
+      "Mastery": 3920.53,
+      "Vers": 3657.91
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-15"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 19.78,
+    "timed": false,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4273.8,
+      "Haste": 3957.56,
+      "Mastery": 3767.11,
+      "Vers": 3472.61
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-16"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 19.11,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4207.13,
+      "Haste": 4051.34,
+      "Mastery": 3921.86,
+      "Vers": 3593.55
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-17"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 19.1,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4254.28,
+      "Haste": 4067.3,
+      "Mastery": 3829.42,
+      "Vers": 3579.6
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-18"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 19.07,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4453.59,
+      "Haste": 4148.89,
+      "Mastery": 3735.15,
+      "Vers": 3514.73
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-19"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 18.26,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4296.22,
+      "Haste": 4135.68,
+      "Mastery": 3823.51,
+      "Vers": 3664.73
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-20"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 19.95,
+    "timed": false,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4459.56,
+      "Haste": 3995.27,
+      "Mastery": 3868.51,
+      "Vers": 3606.15
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-21"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 18.15,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4373.59,
+      "Haste": 3988.41,
+      "Mastery": 3917.65,
+      "Vers": 3689.23
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-22"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 19.09,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4201.74,
+      "Haste": 4048.97,
+      "Mastery": 3931.09,
+      "Vers": 3636.26
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-23"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 17.78,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4218.04,
+      "Haste": 4200.54,
+      "Mastery": 3937.81,
+      "Vers": 3477.36
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-24"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 19.47,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4442.31,
+      "Haste": 4191.5,
+      "Mastery": 3930.51,
+      "Vers": 3705.43
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-25"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 18.68,
+    "timed": false,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4275.28,
+      "Haste": 4170.28,
+      "Mastery": 3761.27,
+      "Vers": 3612.04
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-26"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 18.16,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4215.44,
+      "Haste": 4062.83,
+      "Mastery": 3819.49,
+      "Vers": 3526.2
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-27"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 17.96,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4459.39,
+      "Haste": 3993.85,
+      "Mastery": 3894.27,
+      "Vers": 3677.69
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-28"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 19.49,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4287.5,
+      "Haste": 4193.73,
+      "Mastery": 3862.57,
+      "Vers": 3586.67
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-29"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 19.68,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4316.5,
+      "Haste": 4132.68,
+      "Mastery": 3865.01,
+      "Vers": 3541.18
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-30"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 20.18,
+    "timed": false,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4340.49,
+      "Haste": 4003.67,
+      "Mastery": 3710.72,
+      "Vers": 3483.9
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-31"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 19.21,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4301.85,
+      "Haste": 4135.38,
+      "Mastery": 3852.46,
+      "Vers": 3469.51
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-32"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 18.43,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4233.13,
+      "Haste": 4156.45,
+      "Mastery": 3773.23,
+      "Vers": 3613.77
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-33"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 20.04,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4211,
+      "Haste": 3992.01,
+      "Mastery": 3765.37,
+      "Vers": 3535.09
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-34"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 18.88,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4323.16,
+      "Haste": 4093.13,
+      "Mastery": 3862.67,
+      "Vers": 3629.4
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-35"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 19.72,
+    "timed": false,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4388.56,
+      "Haste": 4119.86,
+      "Mastery": 3826.15,
+      "Vers": 3498.69
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-36"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 19.72,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4211.49,
+      "Haste": 3978.1,
+      "Mastery": 3923.7,
+      "Vers": 3513.41
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-37"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 18.43,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4369.58,
+      "Haste": 4090.29,
+      "Mastery": 3903.6,
+      "Vers": 3528.72
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-38"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 18,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4415.49,
+      "Haste": 4119.88,
+      "Mastery": 3801.6,
+      "Vers": 3694.31
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-39"
+  },
+  {
+    "role": "DPS",
+    "className": "Rogue",
+    "specName": "Outlaw",
+    "keyLevel": 18.47,
+    "timed": true,
+    "buildString": "Rogue-Outlaw-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4211.98,
+      "Haste": 4049.03,
+      "Mastery": 3721.26,
+      "Vers": 3457.23
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/rogue-outlaw-40"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 16.64,
+    "timed": false,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4239.84,
+      "Haste": 3968.92,
+      "Mastery": 3886.63,
+      "Vers": 3697
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-1"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 17.99,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4357.59,
+      "Haste": 4141.77,
+      "Mastery": 3926.57,
+      "Vers": 3672.08
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-2"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 17.76,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4392.18,
+      "Haste": 4033.57,
+      "Mastery": 3729.37,
+      "Vers": 3696.45
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-3"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 18.11,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4219.26,
+      "Haste": 3956.12,
+      "Mastery": 3786.57,
+      "Vers": 3665.04
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-4"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 17.3,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4371.77,
+      "Haste": 4117.03,
+      "Mastery": 3724.34,
+      "Vers": 3666.48
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-5"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 18.19,
+    "timed": false,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4315.12,
+      "Haste": 4196.1,
+      "Mastery": 3700.93,
+      "Vers": 3561.54
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-6"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 16.61,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4367.44,
+      "Haste": 3966.39,
+      "Mastery": 3728.46,
+      "Vers": 3605.58
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-7"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 17.4,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4243.19,
+      "Haste": 4178.17,
+      "Mastery": 3777.24,
+      "Vers": 3513.17
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-8"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 17.9,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4458.04,
+      "Haste": 4063.98,
+      "Mastery": 3880.86,
+      "Vers": 3603.1
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-9"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 18.94,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4353.59,
+      "Haste": 4043,
+      "Mastery": 3720.12,
+      "Vers": 3601.86
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-10"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 18.39,
+    "timed": false,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4279.75,
+      "Haste": 4002.74,
+      "Mastery": 3764.09,
+      "Vers": 3523.92
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-11"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 17.03,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4393.16,
+      "Haste": 4176.56,
+      "Mastery": 3806.47,
+      "Vers": 3506.92
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-12"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 17.05,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4229.93,
+      "Haste": 4194.95,
+      "Mastery": 3835.5,
+      "Vers": 3640.15
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-13"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 17.8,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4351.01,
+      "Haste": 4209.33,
+      "Mastery": 3856.06,
+      "Vers": 3524.86
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-14"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 19.09,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4338.76,
+      "Haste": 4186.66,
+      "Mastery": 3702.27,
+      "Vers": 3644.8
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-15"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 16.84,
+    "timed": false,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4423.34,
+      "Haste": 3973.64,
+      "Mastery": 3879.49,
+      "Vers": 3606.01
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-16"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 18.64,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4237.77,
+      "Haste": 4129.41,
+      "Mastery": 3794.58,
+      "Vers": 3484.59
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-17"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 19.16,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4420.71,
+      "Haste": 4145.76,
+      "Mastery": 3873.55,
+      "Vers": 3601.73
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-18"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 18,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4306.23,
+      "Haste": 4034.21,
+      "Mastery": 3765.92,
+      "Vers": 3505.38
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-19"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 17.34,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4279.95,
+      "Haste": 4079.43,
+      "Mastery": 3915.38,
+      "Vers": 3538.12
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-20"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 16.98,
+    "timed": false,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4221.44,
+      "Haste": 4058.84,
+      "Mastery": 3736.62,
+      "Vers": 3531.24
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-21"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 16.82,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4272.67,
+      "Haste": 4008.27,
+      "Mastery": 3938.25,
+      "Vers": 3564.88
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-22"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 19.07,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4292.77,
+      "Haste": 4194.11,
+      "Mastery": 3892.24,
+      "Vers": 3674.87
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-23"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 17.92,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4339.62,
+      "Haste": 4032.26,
+      "Mastery": 3930.37,
+      "Vers": 3546.62
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-24"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 19.14,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4358.85,
+      "Haste": 4114.7,
+      "Mastery": 3728.4,
+      "Vers": 3496.99
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-25"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 19.38,
+    "timed": false,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4381.1,
+      "Haste": 4064.63,
+      "Mastery": 3799.04,
+      "Vers": 3625.12
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-26"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 18.12,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4448.8,
+      "Haste": 4021.18,
+      "Mastery": 3854.78,
+      "Vers": 3473.41
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-27"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 19.26,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4273.58,
+      "Haste": 4035.22,
+      "Mastery": 3762.02,
+      "Vers": 3500.05
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-28"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 17.88,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4445.89,
+      "Haste": 3977.52,
+      "Mastery": 3707.94,
+      "Vers": 3684.7
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-29"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 19.24,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4258.28,
+      "Haste": 3961,
+      "Mastery": 3841.78,
+      "Vers": 3688.77
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-30"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 17.87,
+    "timed": false,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4204.13,
+      "Haste": 3978.79,
+      "Mastery": 3912.21,
+      "Vers": 3532.31
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-31"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 19.01,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4313.6,
+      "Haste": 4059.8,
+      "Mastery": 3942.66,
+      "Vers": 3489.08
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-32"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 17.67,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4308.51,
+      "Haste": 4163.61,
+      "Mastery": 3866.35,
+      "Vers": 3461.76
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-33"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 17.58,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4278.16,
+      "Haste": 4076.7,
+      "Mastery": 3942.9,
+      "Vers": 3659.1
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-34"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 17.72,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4317.73,
+      "Haste": 4091.62,
+      "Mastery": 3878.35,
+      "Vers": 3456.86
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-35"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 18.88,
+    "timed": false,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4431.17,
+      "Haste": 4130.9,
+      "Mastery": 3770.27,
+      "Vers": 3644.12
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-36"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 17.76,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4440.21,
+      "Haste": 4177.6,
+      "Mastery": 3759.74,
+      "Vers": 3476.77
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-37"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 18.66,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4421.15,
+      "Haste": 4193.7,
+      "Mastery": 3951.55,
+      "Vers": 3459.63
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-38"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 17.75,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4370.74,
+      "Haste": 4048.08,
+      "Mastery": 3824.24,
+      "Vers": 3458.52
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-39"
+  },
+  {
+    "role": "DPS",
+    "className": "Hunter",
+    "specName": "Marksmanship",
+    "keyLevel": 17.46,
+    "timed": true,
+    "buildString": "Hunter-Marksmanship-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4402.65,
+      "Haste": 3975.14,
+      "Mastery": 3731,
+      "Vers": 3683.5
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/hunter-marksmanship-40"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 16.8,
+    "timed": false,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4435.46,
+      "Haste": 4005.3,
+      "Mastery": 3812.57,
+      "Vers": 3604.31
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-1"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 17.41,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4413.17,
+      "Haste": 4188.06,
+      "Mastery": 3703.01,
+      "Vers": 3478.72
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-2"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 16.17,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4278.9,
+      "Haste": 4048.41,
+      "Mastery": 3808.79,
+      "Vers": 3554.38
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-3"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 16.41,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4222.27,
+      "Haste": 4136.97,
+      "Mastery": 3741.68,
+      "Vers": 3544.5
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-4"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 16.37,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4420.63,
+      "Haste": 3953.99,
+      "Mastery": 3885.58,
+      "Vers": 3677.42
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-5"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 16.76,
+    "timed": false,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4274.1,
+      "Haste": 4047.18,
+      "Mastery": 3857,
+      "Vers": 3679.85
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-6"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 16.02,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4254.31,
+      "Haste": 3963.05,
+      "Mastery": 3839.14,
+      "Vers": 3593.54
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-7"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 18.2,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4386.08,
+      "Haste": 4111.2,
+      "Mastery": 3848.61,
+      "Vers": 3564.46
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-8"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 15.99,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4301.58,
+      "Haste": 4000.77,
+      "Mastery": 3794.25,
+      "Vers": 3643.95
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-9"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 16.27,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4345.85,
+      "Haste": 4128.16,
+      "Mastery": 3806.93,
+      "Vers": 3600.54
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-10"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 15.86,
+    "timed": false,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4352.57,
+      "Haste": 3974.68,
+      "Mastery": 3799.07,
+      "Vers": 3521.27
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-11"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 17.32,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4248.8,
+      "Haste": 4172.93,
+      "Mastery": 3812.52,
+      "Vers": 3641.04
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-12"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 17.3,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4407.15,
+      "Haste": 4000.24,
+      "Mastery": 3853.3,
+      "Vers": 3658.56
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-13"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 17.48,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4443.84,
+      "Haste": 4077.7,
+      "Mastery": 3731.5,
+      "Vers": 3617.06
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-14"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 18.06,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4360.85,
+      "Haste": 4132.94,
+      "Mastery": 3944.59,
+      "Vers": 3488.06
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-15"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 16.24,
+    "timed": false,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4390.41,
+      "Haste": 4144.88,
+      "Mastery": 3702.38,
+      "Vers": 3536.43
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-16"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 17.27,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4320.1,
+      "Haste": 4188.65,
+      "Mastery": 3891.7,
+      "Vers": 3644.85
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-17"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 17.9,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4376.48,
+      "Haste": 4018.84,
+      "Mastery": 3799.15,
+      "Vers": 3675.87
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-18"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 17.38,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4285.74,
+      "Haste": 4209.23,
+      "Mastery": 3809.89,
+      "Vers": 3569.76
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-19"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 18.4,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4409.36,
+      "Haste": 4167.3,
+      "Mastery": 3940.9,
+      "Vers": 3696.46
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-20"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 17.93,
+    "timed": false,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4273.3,
+      "Haste": 4041.89,
+      "Mastery": 3927.09,
+      "Vers": 3640.04
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-21"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 18.07,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4208.93,
+      "Haste": 4022.38,
+      "Mastery": 3818.62,
+      "Vers": 3574.15
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-22"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 16.68,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4384.6,
+      "Haste": 4148.14,
+      "Mastery": 3788.25,
+      "Vers": 3547.16
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-23"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 18.06,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4346.27,
+      "Haste": 4106.94,
+      "Mastery": 3927.37,
+      "Vers": 3535.85
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-24"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 18.41,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4366.38,
+      "Haste": 4061.26,
+      "Mastery": 3769.87,
+      "Vers": 3486.76
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-25"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 16.17,
+    "timed": false,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4440.03,
+      "Haste": 4161.9,
+      "Mastery": 3883.03,
+      "Vers": 3604.36
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-26"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 17.35,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4307.73,
+      "Haste": 4047.98,
+      "Mastery": 3804.88,
+      "Vers": 3585.7
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-27"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 18.05,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4244.52,
+      "Haste": 4153.33,
+      "Mastery": 3867.7,
+      "Vers": 3661.11
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-28"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 17.01,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4275.17,
+      "Haste": 4138.86,
+      "Mastery": 3887.68,
+      "Vers": 3541.12
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-29"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 17.91,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4415.53,
+      "Haste": 4171.22,
+      "Mastery": 3920.89,
+      "Vers": 3689.68
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-30"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 16.62,
+    "timed": false,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4380.48,
+      "Haste": 4108.08,
+      "Mastery": 3705.89,
+      "Vers": 3464.26
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-31"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 18.28,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4318.88,
+      "Haste": 3970.6,
+      "Mastery": 3913.77,
+      "Vers": 3663.41
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-32"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 16.77,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4236.41,
+      "Haste": 4143.98,
+      "Mastery": 3746.43,
+      "Vers": 3602.82
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-33"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 16.58,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4447.32,
+      "Haste": 4007.12,
+      "Mastery": 3724.16,
+      "Vers": 3640.91
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-34"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 17.05,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4456.21,
+      "Haste": 4192.48,
+      "Mastery": 3783.81,
+      "Vers": 3535.3
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-35"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 16.61,
+    "timed": false,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4431.2,
+      "Haste": 4157.83,
+      "Mastery": 3708.97,
+      "Vers": 3651.56
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-36"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 16.83,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4330.11,
+      "Haste": 4171.17,
+      "Mastery": 3813.8,
+      "Vers": 3565.95
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-37"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 16.49,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-2",
+    "stats": {
+      "Crit": 4321.17,
+      "Haste": 4170.55,
+      "Mastery": 3802.02,
+      "Vers": 3523.73
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-38"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 18.13,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-3",
+    "stats": {
+      "Crit": 4420.11,
+      "Haste": 4180.64,
+      "Mastery": 3703.05,
+      "Vers": 3554.83
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-39"
+  },
+  {
+    "role": "DPS",
+    "className": "Shaman",
+    "specName": "Elemental",
+    "keyLevel": 16.99,
+    "timed": true,
+    "buildString": "Shaman-Elemental-MPLUS-BUILD-1",
+    "stats": {
+      "Crit": 4385.32,
+      "Haste": 4207.74,
+      "Mastery": 3766.9,
+      "Vers": 3628.81
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-elemental-40"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 15.95,
+    "timed": false,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4392.95,
+      "Mastery": 4135.12,
+      "Vers": 3839.85,
+      "Crit": 3550.86
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-1"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 15.89,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4413.9,
+      "Mastery": 4140.51,
+      "Vers": 3782.53,
+      "Crit": 3640.63
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-2"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 15.17,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4374.27,
+      "Mastery": 4077.57,
+      "Vers": 3892.41,
+      "Crit": 3595.72
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-3"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 15.09,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4321.19,
+      "Mastery": 4162.92,
+      "Vers": 3772.21,
+      "Crit": 3701.56
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-4"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 14.9,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4335.68,
+      "Mastery": 4110.63,
+      "Vers": 3805.92,
+      "Crit": 3709.1
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-5"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 16.12,
+    "timed": false,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4453.94,
+      "Mastery": 4095.3,
+      "Vers": 3783.94,
+      "Crit": 3541.92
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-6"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 16.75,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4338.48,
+      "Mastery": 4165.45,
+      "Vers": 3878.51,
+      "Crit": 3493.89
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-7"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 15.77,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4260.48,
+      "Mastery": 4188.09,
+      "Vers": 3810.77,
+      "Crit": 3658.63
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-8"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 15.16,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4274.06,
+      "Mastery": 4065.56,
+      "Vers": 3850.1,
+      "Crit": 3631.47
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-9"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 17.02,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4443.55,
+      "Mastery": 3965.49,
+      "Vers": 3746.73,
+      "Crit": 3524.7
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-10"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 15.92,
+    "timed": false,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4304.17,
+      "Mastery": 4044.18,
+      "Vers": 3757.94,
+      "Crit": 3696.56
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-11"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 16.27,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4416.53,
+      "Mastery": 4183.87,
+      "Vers": 3868.06,
+      "Crit": 3454.02
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-12"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 17.4,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4295.01,
+      "Mastery": 4003.92,
+      "Vers": 3802.4,
+      "Crit": 3669.48
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-13"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 16.24,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4249.88,
+      "Mastery": 4185.6,
+      "Vers": 3834.79,
+      "Crit": 3690.94
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-14"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 15.14,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4382.77,
+      "Mastery": 4170.24,
+      "Vers": 3788.26,
+      "Crit": 3465.23
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-15"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 17.3,
+    "timed": false,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4374.95,
+      "Mastery": 4029.86,
+      "Vers": 3868.08,
+      "Crit": 3593.51
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-16"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 17.32,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4327.39,
+      "Mastery": 4009.56,
+      "Vers": 3946.43,
+      "Crit": 3578
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-17"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 16.9,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4311.73,
+      "Mastery": 4080.52,
+      "Vers": 3897.3,
+      "Crit": 3458.87
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-18"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 15.56,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4450.88,
+      "Mastery": 4022.3,
+      "Vers": 3940.53,
+      "Crit": 3639.93
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-19"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 16.47,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4227.77,
+      "Mastery": 4033.1,
+      "Vers": 3953.45,
+      "Crit": 3681.55
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-20"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 17.41,
+    "timed": false,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4400.74,
+      "Mastery": 4046.26,
+      "Vers": 3828.46,
+      "Crit": 3699.25
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-21"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 16.67,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4243.91,
+      "Mastery": 4091.44,
+      "Vers": 3834.91,
+      "Crit": 3686.24
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-22"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 16.56,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4250.84,
+      "Mastery": 4138.64,
+      "Vers": 3943.46,
+      "Crit": 3618.11
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-23"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 16.95,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4419.47,
+      "Mastery": 4203.3,
+      "Vers": 3931.22,
+      "Crit": 3557.74
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-24"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 16.22,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4356.74,
+      "Mastery": 4190.53,
+      "Vers": 3745.56,
+      "Crit": 3498.81
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-25"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 17.3,
+    "timed": false,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4420.93,
+      "Mastery": 3996.82,
+      "Vers": 3865.07,
+      "Crit": 3465.9
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-26"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 16.09,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4259.89,
+      "Mastery": 4127.28,
+      "Vers": 3835.75,
+      "Crit": 3609.47
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-27"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 17.39,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4203.63,
+      "Mastery": 3966.81,
+      "Vers": 3920.77,
+      "Crit": 3514.22
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-28"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 15.71,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4309.41,
+      "Mastery": 4203.6,
+      "Vers": 3882.18,
+      "Crit": 3578.99
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-29"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 16.04,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4438.05,
+      "Mastery": 4043.43,
+      "Vers": 3833.33,
+      "Crit": 3527.15
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-30"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 16.99,
+    "timed": false,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4319.96,
+      "Mastery": 4133.59,
+      "Vers": 3780.47,
+      "Crit": 3505.9
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-31"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 16.35,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4389.88,
+      "Mastery": 4015.2,
+      "Vers": 3932.66,
+      "Crit": 3613.78
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-32"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 16.51,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4269.3,
+      "Mastery": 3983.02,
+      "Vers": 3959.05,
+      "Crit": 3675.23
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-33"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 17.29,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4355.75,
+      "Mastery": 4072.15,
+      "Vers": 3792.79,
+      "Crit": 3521.89
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-34"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 16.1,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4278.64,
+      "Mastery": 4071.03,
+      "Vers": 3901.34,
+      "Crit": 3520.1
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-35"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 17.99,
+    "timed": false,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4201.14,
+      "Mastery": 4040.6,
+      "Vers": 3722.83,
+      "Crit": 3524.45
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-36"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 15.55,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4288.27,
+      "Mastery": 4039.6,
+      "Vers": 3728.58,
+      "Crit": 3637.62
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-37"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 16.22,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4421.28,
+      "Mastery": 4096.29,
+      "Vers": 3832.17,
+      "Crit": 3656.78
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-38"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 16.9,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4418.8,
+      "Mastery": 4167,
+      "Vers": 3865.51,
+      "Crit": 3547.12
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-39"
+  },
+  {
+    "role": "TANK",
+    "className": "Warrior",
+    "specName": "Protection",
+    "keyLevel": 16.02,
+    "timed": true,
+    "buildString": "Warrior-Protection-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4245.49,
+      "Mastery": 4082.38,
+      "Vers": 3782.61,
+      "Crit": 3643.34
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/warrior-protection-40"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 16.33,
+    "timed": false,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4209,
+      "Mastery": 4002.17,
+      "Vers": 3852.28,
+      "Crit": 3540.21
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-1"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 15.63,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4366.43,
+      "Mastery": 4079.69,
+      "Vers": 3800.67,
+      "Crit": 3573.28
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-2"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 16.37,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4441.48,
+      "Mastery": 4117.31,
+      "Vers": 3765.15,
+      "Crit": 3691.14
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-3"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 16.19,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4253.85,
+      "Mastery": 3994.47,
+      "Vers": 3940.98,
+      "Crit": 3620.94
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-4"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 15.45,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4402.38,
+      "Mastery": 4089.8,
+      "Vers": 3702.47,
+      "Crit": 3548.56
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-5"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 16.18,
+    "timed": false,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4343.69,
+      "Mastery": 4139.02,
+      "Vers": 3840.28,
+      "Crit": 3495.37
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-6"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 16.16,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4367.99,
+      "Mastery": 4170.46,
+      "Vers": 3856.63,
+      "Crit": 3473.33
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-7"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 15.36,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4454.06,
+      "Mastery": 4140.06,
+      "Vers": 3940.46,
+      "Crit": 3640.21
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-8"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 14.97,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4425.06,
+      "Mastery": 4087.54,
+      "Vers": 3824.04,
+      "Crit": 3676.82
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-9"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 16.37,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4367.04,
+      "Mastery": 4035.73,
+      "Vers": 3723.14,
+      "Crit": 3468.08
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-10"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 15.24,
+    "timed": false,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4272.03,
+      "Mastery": 4154.74,
+      "Vers": 3722.34,
+      "Crit": 3529.56
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-11"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 15.66,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4207.23,
+      "Mastery": 4152.56,
+      "Vers": 3947.2,
+      "Crit": 3621.16
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-12"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 14.27,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4232.04,
+      "Mastery": 3973.86,
+      "Vers": 3704.77,
+      "Crit": 3709.54
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-13"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 14.57,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4324.26,
+      "Mastery": 3988.19,
+      "Vers": 3753.89,
+      "Crit": 3640.49
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-14"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 16.26,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4316.9,
+      "Mastery": 4148.98,
+      "Vers": 3906.49,
+      "Crit": 3602.53
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-15"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 14.77,
+    "timed": false,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4366.47,
+      "Mastery": 4204.38,
+      "Vers": 3760.84,
+      "Crit": 3562.73
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-16"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 15.82,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4393.96,
+      "Mastery": 4180.71,
+      "Vers": 3707.69,
+      "Crit": 3495.44
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-17"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 15.14,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4318.91,
+      "Mastery": 4099.31,
+      "Vers": 3869.8,
+      "Crit": 3624.56
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-18"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 15.86,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4307.16,
+      "Mastery": 3967.04,
+      "Vers": 3835.23,
+      "Crit": 3639.64
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-19"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 15.99,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4252.55,
+      "Mastery": 4040.75,
+      "Vers": 3704.57,
+      "Crit": 3485.85
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-20"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 15.99,
+    "timed": false,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4312.36,
+      "Mastery": 4065.48,
+      "Vers": 3851.87,
+      "Crit": 3647.66
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-21"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 16.61,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4416.41,
+      "Mastery": 4086.21,
+      "Vers": 3919.07,
+      "Crit": 3625.82
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-22"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 16.71,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4309.19,
+      "Mastery": 3972.5,
+      "Vers": 3903.11,
+      "Crit": 3547.01
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-23"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 16.28,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4384.32,
+      "Mastery": 3995.37,
+      "Vers": 3955.09,
+      "Crit": 3705.26
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-24"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 14.55,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4450.4,
+      "Mastery": 4115.25,
+      "Vers": 3930.39,
+      "Crit": 3594.09
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-25"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 15.69,
+    "timed": false,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4327.1,
+      "Mastery": 4059.94,
+      "Vers": 3728.44,
+      "Crit": 3548.06
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-26"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 14.65,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4450.11,
+      "Mastery": 4191.22,
+      "Vers": 3900.85,
+      "Crit": 3532.42
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-27"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 15.49,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4403.54,
+      "Mastery": 4038.51,
+      "Vers": 3926.31,
+      "Crit": 3499.16
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-28"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 14.84,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4318.1,
+      "Mastery": 3958,
+      "Vers": 3870.65,
+      "Crit": 3487.85
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-29"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 15.36,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4453.35,
+      "Mastery": 4195.55,
+      "Vers": 3710.16,
+      "Crit": 3469.47
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-30"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 16.77,
+    "timed": false,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4262.27,
+      "Mastery": 3951.42,
+      "Vers": 3956.64,
+      "Crit": 3451.51
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-31"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 16.83,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4316.27,
+      "Mastery": 4085.24,
+      "Vers": 3942.04,
+      "Crit": 3582.35
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-32"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 14.86,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4328.85,
+      "Mastery": 4099.1,
+      "Vers": 3741.04,
+      "Crit": 3473.25
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-33"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 15.19,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4296.04,
+      "Mastery": 4057.2,
+      "Vers": 3749.8,
+      "Crit": 3596.01
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-34"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 15.63,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4331.97,
+      "Mastery": 4160.18,
+      "Vers": 3738.97,
+      "Crit": 3554.75
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-35"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 15.8,
+    "timed": false,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4237.74,
+      "Mastery": 4052.53,
+      "Vers": 3719.57,
+      "Crit": 3470.13
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-36"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 15.46,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4362.19,
+      "Mastery": 4201.51,
+      "Vers": 3760.05,
+      "Crit": 3534.46
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-37"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 15.15,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4373.08,
+      "Mastery": 4146.27,
+      "Vers": 3793.29,
+      "Crit": 3556.55
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-38"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 16.87,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4357.44,
+      "Mastery": 4115.9,
+      "Vers": 3932.28,
+      "Crit": 3535.08
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-39"
+  },
+  {
+    "role": "TANK",
+    "className": "Druid",
+    "specName": "Guardian",
+    "keyLevel": 17.03,
+    "timed": true,
+    "buildString": "Druid-Guardian-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4350.06,
+      "Mastery": 4035.45,
+      "Vers": 3733.67,
+      "Crit": 3699.47
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/druid-guardian-40"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 15.21,
+    "timed": false,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4369.22,
+      "Mastery": 4079.03,
+      "Vers": 3788.17,
+      "Crit": 3497.76
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-1"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 13.32,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4439.12,
+      "Mastery": 4169.51,
+      "Vers": 3917.56,
+      "Crit": 3690.72
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-2"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 13.6,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4338.55,
+      "Mastery": 3984.41,
+      "Vers": 3957.76,
+      "Crit": 3492.29
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-3"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 15.02,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4375.65,
+      "Mastery": 3987.9,
+      "Vers": 3748.11,
+      "Crit": 3675.95
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-4"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 13.97,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4328.89,
+      "Mastery": 4109.03,
+      "Vers": 3886.85,
+      "Crit": 3687.63
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-5"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 14.05,
+    "timed": false,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4454.6,
+      "Mastery": 3966.67,
+      "Vers": 3873.43,
+      "Crit": 3685.37
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-6"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 15.57,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4401.54,
+      "Mastery": 4121.53,
+      "Vers": 3878.15,
+      "Crit": 3706.54
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-7"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 15.1,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4453.45,
+      "Mastery": 4196.44,
+      "Vers": 3900.09,
+      "Crit": 3603.58
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-8"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 14.77,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4420.41,
+      "Mastery": 4105.63,
+      "Vers": 3954.42,
+      "Crit": 3489.29
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-9"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 14.09,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4340.36,
+      "Mastery": 3974.43,
+      "Vers": 3730.27,
+      "Crit": 3653.04
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-10"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 14.06,
+    "timed": false,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4392.08,
+      "Mastery": 4050.67,
+      "Vers": 3800.76,
+      "Crit": 3689.34
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-11"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 13.84,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4281.13,
+      "Mastery": 4089.5,
+      "Vers": 3706.59,
+      "Crit": 3700.39
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-12"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 14.78,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4440.47,
+      "Mastery": 4033.08,
+      "Vers": 3934.97,
+      "Crit": 3674.29
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-13"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 14.41,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4367.42,
+      "Mastery": 4167.04,
+      "Vers": 3735.64,
+      "Crit": 3640.7
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-14"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 15.49,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4338.83,
+      "Mastery": 3975.52,
+      "Vers": 3875.85,
+      "Crit": 3565.78
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-15"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 14.95,
+    "timed": false,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4266.22,
+      "Mastery": 4116.53,
+      "Vers": 3935.98,
+      "Crit": 3508.2
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-16"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 15.41,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4372.77,
+      "Mastery": 3979.52,
+      "Vers": 3767.8,
+      "Crit": 3518.18
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-17"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 14.22,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4314.01,
+      "Mastery": 4186.99,
+      "Vers": 3917.09,
+      "Crit": 3541.09
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-18"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 15.05,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4383.77,
+      "Mastery": 4161.76,
+      "Vers": 3712.22,
+      "Crit": 3587.52
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-19"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 14.53,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4387.28,
+      "Mastery": 4121.63,
+      "Vers": 3780.5,
+      "Crit": 3651.28
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-20"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 13.99,
+    "timed": false,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4342.75,
+      "Mastery": 3962.82,
+      "Vers": 3893.53,
+      "Crit": 3636.78
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-21"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 13.75,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4412.81,
+      "Mastery": 3973.62,
+      "Vers": 3943.02,
+      "Crit": 3557.06
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-22"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 15.09,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4327.22,
+      "Mastery": 3999.35,
+      "Vers": 3888.16,
+      "Crit": 3483.55
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-23"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 14.76,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4377.49,
+      "Mastery": 4179.59,
+      "Vers": 3715.38,
+      "Crit": 3508.46
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-24"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 14.65,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4344.59,
+      "Mastery": 4138.48,
+      "Vers": 3931.36,
+      "Crit": 3460.47
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-25"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 14.1,
+    "timed": false,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4260,
+      "Mastery": 4008.54,
+      "Vers": 3729.59,
+      "Crit": 3674.05
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-26"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 14.79,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4400.66,
+      "Mastery": 4168.42,
+      "Vers": 3850.86,
+      "Crit": 3692.72
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-27"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 15.83,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4257.71,
+      "Mastery": 3954.38,
+      "Vers": 3737.56,
+      "Crit": 3586.11
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-28"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 13.93,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4379.07,
+      "Mastery": 4025.56,
+      "Vers": 3901.63,
+      "Crit": 3460.59
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-29"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 16.23,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4325.29,
+      "Mastery": 4062.5,
+      "Vers": 3885.6,
+      "Crit": 3502.85
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-30"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 15.74,
+    "timed": false,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4278.17,
+      "Mastery": 4118.12,
+      "Vers": 3876.04,
+      "Crit": 3515.7
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-31"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 14.4,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4321.16,
+      "Mastery": 4160.45,
+      "Vers": 3728.5,
+      "Crit": 3505.21
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-32"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 16.24,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4250.72,
+      "Mastery": 4145.94,
+      "Vers": 3822.74,
+      "Crit": 3497.83
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-33"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 15.66,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4437.06,
+      "Mastery": 4102.03,
+      "Vers": 3847.02,
+      "Crit": 3626.32
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-34"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 15.74,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4353.2,
+      "Mastery": 3957.55,
+      "Vers": 3929.89,
+      "Crit": 3702.87
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-35"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 14.18,
+    "timed": false,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4230.48,
+      "Mastery": 4159.48,
+      "Vers": 3957.97,
+      "Crit": 3577.86
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-36"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 14.22,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4379.13,
+      "Mastery": 3954.17,
+      "Vers": 3937.96,
+      "Crit": 3502.44
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-37"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 15.67,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4251.9,
+      "Mastery": 4091.46,
+      "Vers": 3840.98,
+      "Crit": 3453.28
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-38"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 15.9,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4369.07,
+      "Mastery": 4069.75,
+      "Vers": 3707.71,
+      "Crit": 3497.5
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-39"
+  },
+  {
+    "role": "TANK",
+    "className": "Paladin",
+    "specName": "Protection",
+    "keyLevel": 15.85,
+    "timed": true,
+    "buildString": "Paladin-Protection-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4343.03,
+      "Mastery": 4060.23,
+      "Vers": 3752.2,
+      "Crit": 3636.02
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/paladin-protection-40"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 14.41,
+    "timed": false,
+    "buildString": "Priest-Holy-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4280.51,
+      "Mastery": 3968.4,
+      "Crit": 3942.66,
+      "Vers": 3643.61
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-1"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 13.31,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4360.67,
+      "Mastery": 4051.24,
+      "Crit": 3837.47,
+      "Vers": 3683.67
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-2"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 13.35,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4407.48,
+      "Mastery": 3968.11,
+      "Crit": 3714.77,
+      "Vers": 3616.33
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-3"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 14.22,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4234.59,
+      "Mastery": 4164.02,
+      "Crit": 3873.88,
+      "Vers": 3598.14
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-4"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 13.56,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4241.31,
+      "Mastery": 4123.67,
+      "Crit": 3927.41,
+      "Vers": 3632.09
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-5"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 12.68,
+    "timed": false,
+    "buildString": "Priest-Holy-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4438.37,
+      "Mastery": 3994.98,
+      "Crit": 3902.56,
+      "Vers": 3626.62
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-6"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 14.58,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4242.3,
+      "Mastery": 4121.07,
+      "Crit": 3770.64,
+      "Vers": 3702.7
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-7"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 14.37,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4337.38,
+      "Mastery": 4039.7,
+      "Crit": 3743.92,
+      "Vers": 3708.07
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-8"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 14.59,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4364.67,
+      "Mastery": 4069.55,
+      "Crit": 3779.22,
+      "Vers": 3498.09
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-9"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 12.89,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4237.33,
+      "Mastery": 4022.83,
+      "Crit": 3847.75,
+      "Vers": 3462.79
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-10"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 14.52,
+    "timed": false,
+    "buildString": "Priest-Holy-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4402.15,
+      "Mastery": 3984.02,
+      "Crit": 3931.06,
+      "Vers": 3480.09
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-11"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 14.82,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4267.17,
+      "Mastery": 4034.72,
+      "Crit": 3743.18,
+      "Vers": 3675.17
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-12"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 13.93,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4255.72,
+      "Mastery": 3965.01,
+      "Crit": 3739.26,
+      "Vers": 3606.5
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-13"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 13.97,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4207.12,
+      "Mastery": 4011.61,
+      "Crit": 3771.25,
+      "Vers": 3518.97
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-14"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 13.53,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4365.04,
+      "Mastery": 4023.79,
+      "Crit": 3811.37,
+      "Vers": 3505.09
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-15"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 14.65,
+    "timed": false,
+    "buildString": "Priest-Holy-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4274.06,
+      "Mastery": 4177.77,
+      "Crit": 3884.49,
+      "Vers": 3695.2
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-16"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 14.56,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4265.85,
+      "Mastery": 4120.95,
+      "Crit": 3730.3,
+      "Vers": 3657.88
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-17"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 14.93,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4336.12,
+      "Mastery": 4187.15,
+      "Crit": 3757.07,
+      "Vers": 3612.06
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-18"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 13.52,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4313.74,
+      "Mastery": 4004.41,
+      "Crit": 3908.07,
+      "Vers": 3552.3
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-19"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 13.21,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4283.75,
+      "Mastery": 3956.94,
+      "Crit": 3822.58,
+      "Vers": 3668.83
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-20"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 13.61,
+    "timed": false,
+    "buildString": "Priest-Holy-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4225.88,
+      "Mastery": 4042.95,
+      "Crit": 3773.12,
+      "Vers": 3464.27
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-21"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 14.98,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4430.34,
+      "Mastery": 4030.15,
+      "Crit": 3780.66,
+      "Vers": 3468.68
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-22"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 14.77,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4352.76,
+      "Mastery": 4130.68,
+      "Crit": 3769.74,
+      "Vers": 3574.82
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-23"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 14.11,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4330.06,
+      "Mastery": 4117.44,
+      "Crit": 3725.19,
+      "Vers": 3455.47
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-24"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 14.32,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4439.1,
+      "Mastery": 4003.49,
+      "Crit": 3852.43,
+      "Vers": 3504.66
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-25"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 13.46,
+    "timed": false,
+    "buildString": "Priest-Holy-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4399.89,
+      "Mastery": 4206.37,
+      "Crit": 3702.98,
+      "Vers": 3704.32
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-26"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 12.96,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4265.03,
+      "Mastery": 4158.98,
+      "Crit": 3906.79,
+      "Vers": 3538.33
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-27"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 14.31,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4336.94,
+      "Mastery": 4048.6,
+      "Crit": 3753.12,
+      "Vers": 3475.12
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-28"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 13.33,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4314.44,
+      "Mastery": 3965.4,
+      "Crit": 3721.07,
+      "Vers": 3600.39
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-29"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 14.53,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4269.79,
+      "Mastery": 4101.79,
+      "Crit": 3861.25,
+      "Vers": 3561.09
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-30"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 13.13,
+    "timed": false,
+    "buildString": "Priest-Holy-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4337.45,
+      "Mastery": 4183.61,
+      "Crit": 3749.42,
+      "Vers": 3561.59
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-31"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 14.61,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4415.36,
+      "Mastery": 3954,
+      "Crit": 3753.03,
+      "Vers": 3552.79
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-32"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 14.5,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4399.44,
+      "Mastery": 4190.61,
+      "Crit": 3711.1,
+      "Vers": 3474.86
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-33"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 13.2,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4431.78,
+      "Mastery": 4096.59,
+      "Crit": 3707.99,
+      "Vers": 3513.69
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-34"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 13.47,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4382.72,
+      "Mastery": 4165.37,
+      "Crit": 3821.01,
+      "Vers": 3591.3
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-35"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 15.57,
+    "timed": false,
+    "buildString": "Priest-Holy-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4386.7,
+      "Mastery": 4119.36,
+      "Crit": 3881.78,
+      "Vers": 3649.94
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-36"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 15.03,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4351.81,
+      "Mastery": 3982.03,
+      "Crit": 3771.02,
+      "Vers": 3689.44
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-37"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 15.51,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4262.23,
+      "Mastery": 4122.99,
+      "Crit": 3726.03,
+      "Vers": 3557.21
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-38"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 14.33,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4233.09,
+      "Mastery": 4015.18,
+      "Crit": 3880.27,
+      "Vers": 3530.05
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-39"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Holy",
+    "keyLevel": 15.54,
+    "timed": true,
+    "buildString": "Priest-Holy-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4316.63,
+      "Mastery": 4123.11,
+      "Crit": 3813.68,
+      "Vers": 3606.52
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/priest-holy-40"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 14.09,
+    "timed": false,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4318.58,
+      "Mastery": 4161.17,
+      "Crit": 3932.79,
+      "Vers": 3588.83
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-1"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 13.01,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4403.36,
+      "Mastery": 3960.41,
+      "Crit": 3739.04,
+      "Vers": 3692.63
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-2"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 12.16,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4406.64,
+      "Mastery": 4082.42,
+      "Crit": 3743.9,
+      "Vers": 3603.27
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-3"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 13.13,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4453.72,
+      "Mastery": 4098.59,
+      "Crit": 3749,
+      "Vers": 3616.77
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-4"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 13.54,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4281.85,
+      "Mastery": 3993.08,
+      "Crit": 3729.58,
+      "Vers": 3703.67
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-5"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 13.12,
+    "timed": false,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4384.81,
+      "Mastery": 4007.61,
+      "Crit": 3939.52,
+      "Vers": 3614.16
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-6"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 12.16,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4297.99,
+      "Mastery": 3966.37,
+      "Crit": 3715.93,
+      "Vers": 3502.43
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-7"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 12.53,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4261.88,
+      "Mastery": 4159.07,
+      "Crit": 3921.73,
+      "Vers": 3508.51
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-8"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 13.67,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4282.46,
+      "Mastery": 4140.42,
+      "Crit": 3924.11,
+      "Vers": 3595.83
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-9"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 13.5,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4226.56,
+      "Mastery": 4124.28,
+      "Crit": 3767.5,
+      "Vers": 3642.78
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-10"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 14.28,
+    "timed": false,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4430.52,
+      "Mastery": 4030.86,
+      "Crit": 3739.08,
+      "Vers": 3526.64
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-11"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 13.42,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4220.7,
+      "Mastery": 4085.35,
+      "Crit": 3925.67,
+      "Vers": 3458.45
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-12"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 14.16,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4324.33,
+      "Mastery": 4106.74,
+      "Crit": 3760.29,
+      "Vers": 3527.55
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-13"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 13.71,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4329.57,
+      "Mastery": 4085.52,
+      "Crit": 3897.6,
+      "Vers": 3494.49
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-14"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 13.67,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4293.54,
+      "Mastery": 3969.29,
+      "Crit": 3917.01,
+      "Vers": 3611.64
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-15"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 12.95,
+    "timed": false,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4257.77,
+      "Mastery": 3955.52,
+      "Crit": 3912.68,
+      "Vers": 3610.57
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-16"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 12.99,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4270.14,
+      "Mastery": 3990.81,
+      "Crit": 3730.16,
+      "Vers": 3495.86
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-17"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 12.87,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4393.18,
+      "Mastery": 4036.37,
+      "Crit": 3749.01,
+      "Vers": 3544.97
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-18"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 14.26,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4438.39,
+      "Mastery": 4059.6,
+      "Crit": 3831.65,
+      "Vers": 3514.35
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-19"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 13.79,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4206.82,
+      "Mastery": 4011.97,
+      "Crit": 3818.49,
+      "Vers": 3651.85
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-20"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 12.76,
+    "timed": false,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4236.23,
+      "Mastery": 4053.43,
+      "Crit": 3749.83,
+      "Vers": 3616.03
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-21"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 14.17,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4455.23,
+      "Mastery": 3984.25,
+      "Crit": 3815.1,
+      "Vers": 3463.05
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-22"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 12.27,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4385.54,
+      "Mastery": 3964.8,
+      "Crit": 3770.52,
+      "Vers": 3582.01
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-23"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 14.36,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4372.99,
+      "Mastery": 4184.58,
+      "Crit": 3906.05,
+      "Vers": 3580.01
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-24"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 12.56,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4208.82,
+      "Mastery": 4001.68,
+      "Crit": 3923.04,
+      "Vers": 3498.11
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-25"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 12.99,
+    "timed": false,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4342.35,
+      "Mastery": 4193.94,
+      "Crit": 3884.04,
+      "Vers": 3459.66
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-26"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 12.39,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4226.81,
+      "Mastery": 4003.56,
+      "Crit": 3856.19,
+      "Vers": 3572.7
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-27"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 12.15,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4299.79,
+      "Mastery": 4156.7,
+      "Crit": 3810.09,
+      "Vers": 3568.1
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-28"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 12.34,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4320.11,
+      "Mastery": 4159.89,
+      "Crit": 3775.75,
+      "Vers": 3475.14
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-29"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 13.19,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4303,
+      "Mastery": 4015,
+      "Crit": 3737.52,
+      "Vers": 3516.47
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-30"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 14.1,
+    "timed": false,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4415.22,
+      "Mastery": 4114.67,
+      "Crit": 3789.81,
+      "Vers": 3484.2
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-31"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 12.61,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4352.19,
+      "Mastery": 4100,
+      "Crit": 3775.45,
+      "Vers": 3679
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-32"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 13.49,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4278.75,
+      "Mastery": 4062.25,
+      "Crit": 3708.41,
+      "Vers": 3513.91
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-33"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 12.78,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4215.36,
+      "Mastery": 4190.35,
+      "Crit": 3942.7,
+      "Vers": 3504.64
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-34"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 14.47,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4211.4,
+      "Mastery": 4165.77,
+      "Crit": 3788.83,
+      "Vers": 3627.8
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-35"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 14.69,
+    "timed": false,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4267,
+      "Mastery": 4126.29,
+      "Crit": 3779.57,
+      "Vers": 3508.56
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-36"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 13.61,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4264.91,
+      "Mastery": 4079.94,
+      "Crit": 3786.04,
+      "Vers": 3659.07
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-37"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 14.78,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4433.37,
+      "Mastery": 4110.29,
+      "Crit": 3745.44,
+      "Vers": 3608.55
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-38"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 14.75,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4261.3,
+      "Mastery": 4074.12,
+      "Crit": 3881.24,
+      "Vers": 3686.09
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-39"
+  },
+  {
+    "role": "HEALER",
+    "className": "Monk",
+    "specName": "Mistweaver",
+    "keyLevel": 12.68,
+    "timed": true,
+    "buildString": "Monk-Mistweaver-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4286.27,
+      "Mastery": 4092.07,
+      "Crit": 3896.53,
+      "Vers": 3696.71
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/monk-mistweaver-40"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 11.07,
+    "timed": false,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4256.03,
+      "Mastery": 4012.93,
+      "Crit": 3741.05,
+      "Vers": 3691.13
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-1"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 12.1,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4423.83,
+      "Mastery": 4191.7,
+      "Crit": 3872.04,
+      "Vers": 3709.43
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-2"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 13.02,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4257.62,
+      "Mastery": 4201.6,
+      "Crit": 3709.01,
+      "Vers": 3538.53
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-3"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 12.86,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4282.99,
+      "Mastery": 4159.67,
+      "Crit": 3742.02,
+      "Vers": 3523.18
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-4"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 11.03,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4299.44,
+      "Mastery": 3985.7,
+      "Crit": 3753.17,
+      "Vers": 3569.97
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-5"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 12.85,
+    "timed": false,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4209.36,
+      "Mastery": 3973.57,
+      "Crit": 3910.39,
+      "Vers": 3463.45
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-6"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 12.61,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4338.79,
+      "Mastery": 4074.31,
+      "Crit": 3792.65,
+      "Vers": 3453.59
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-7"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 11.67,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4209,
+      "Mastery": 3969.71,
+      "Crit": 3765.57,
+      "Vers": 3553.2
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-8"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 11.81,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4437.65,
+      "Mastery": 4195.15,
+      "Crit": 3765.88,
+      "Vers": 3624.06
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-9"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 11.01,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4227.88,
+      "Mastery": 4150.22,
+      "Crit": 3913.48,
+      "Vers": 3470.3
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-10"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 11.9,
+    "timed": false,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4324.19,
+      "Mastery": 4015.59,
+      "Crit": 3829.3,
+      "Vers": 3457.21
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-11"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 12.67,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4252.94,
+      "Mastery": 4074.41,
+      "Crit": 3777.45,
+      "Vers": 3574.01
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-12"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 13.12,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4246.2,
+      "Mastery": 4036.46,
+      "Crit": 3729.62,
+      "Vers": 3538.54
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-13"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 13.14,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4306.68,
+      "Mastery": 4183.2,
+      "Crit": 3730.17,
+      "Vers": 3682.23
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-14"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 11.22,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4312.32,
+      "Mastery": 4171.95,
+      "Crit": 3739.91,
+      "Vers": 3493.36
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-15"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 12.93,
+    "timed": false,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4378.36,
+      "Mastery": 4177.35,
+      "Crit": 3736.73,
+      "Vers": 3536.95
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-16"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 11.88,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4435.38,
+      "Mastery": 4208.3,
+      "Crit": 3811.51,
+      "Vers": 3469.41
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-17"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 13.13,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4321.38,
+      "Mastery": 4198.72,
+      "Crit": 3737.4,
+      "Vers": 3686.4
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-18"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 11.5,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4386.45,
+      "Mastery": 4090.52,
+      "Crit": 3831.07,
+      "Vers": 3582.23
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-19"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 12.33,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4268.47,
+      "Mastery": 4167.34,
+      "Crit": 3724.45,
+      "Vers": 3699.56
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-20"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 12.1,
+    "timed": false,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4258.54,
+      "Mastery": 4077.77,
+      "Crit": 3725.73,
+      "Vers": 3708.11
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-21"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 11.53,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4314.98,
+      "Mastery": 4186.99,
+      "Crit": 3828.48,
+      "Vers": 3491.33
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-22"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 13.44,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4364.94,
+      "Mastery": 4055.78,
+      "Crit": 3748.15,
+      "Vers": 3700.27
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-23"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 13.1,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4333,
+      "Mastery": 4026.42,
+      "Crit": 3725.22,
+      "Vers": 3693.98
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-24"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 13.38,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4416.06,
+      "Mastery": 4194.88,
+      "Crit": 3754.65,
+      "Vers": 3626.23
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-25"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 12.28,
+    "timed": false,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4304.53,
+      "Mastery": 4149.15,
+      "Crit": 3841.39,
+      "Vers": 3658.22
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-26"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 12.84,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4209.45,
+      "Mastery": 3993.69,
+      "Crit": 3722.15,
+      "Vers": 3677.6
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-27"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 12.92,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4316.17,
+      "Mastery": 4060.34,
+      "Crit": 3873.6,
+      "Vers": 3524.1
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-28"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 12.33,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4224.71,
+      "Mastery": 4086.2,
+      "Crit": 3907.69,
+      "Vers": 3462.28
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-29"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 12.38,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4457.63,
+      "Mastery": 4199.05,
+      "Crit": 3814.83,
+      "Vers": 3602.38
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-30"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 12.75,
+    "timed": false,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4316.4,
+      "Mastery": 4071.56,
+      "Crit": 3895.79,
+      "Vers": 3570.21
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-31"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 13.31,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4407.21,
+      "Mastery": 4145.12,
+      "Crit": 3903.82,
+      "Vers": 3467.36
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-32"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 13.37,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4217.66,
+      "Mastery": 3984.92,
+      "Crit": 3737.94,
+      "Vers": 3522.97
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-33"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 13.25,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4365.72,
+      "Mastery": 4007.5,
+      "Crit": 3869.36,
+      "Vers": 3478.93
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-34"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 13.44,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4422.53,
+      "Mastery": 4082.57,
+      "Crit": 3942.25,
+      "Vers": 3529.74
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-35"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 13.55,
+    "timed": false,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4370.86,
+      "Mastery": 3950.75,
+      "Crit": 3710.89,
+      "Vers": 3699.17
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-36"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 13.86,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4240.81,
+      "Mastery": 4159,
+      "Crit": 3714.91,
+      "Vers": 3475.28
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-37"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 11.8,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-2",
+    "stats": {
+      "Haste": 4264.76,
+      "Mastery": 4135.61,
+      "Crit": 3874.33,
+      "Vers": 3525.74
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-38"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 13.43,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-3",
+    "stats": {
+      "Haste": 4253.32,
+      "Mastery": 4166.54,
+      "Crit": 3906.49,
+      "Vers": 3515.21
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-39"
+  },
+  {
+    "role": "HEALER",
+    "className": "Shaman",
+    "specName": "Restoration",
+    "keyLevel": 12.49,
+    "timed": true,
+    "buildString": "Shaman-Restoration-MPLUS-BUILD-1",
+    "stats": {
+      "Haste": 4274.05,
+      "Mastery": 3995.01,
+      "Crit": 3746.36,
+      "Vers": 3566.71
+    },
+    "evidenceUrl": "https://raider.io/characters/us/mock/shaman-restoration-40"
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "name": "wow-retail-tier-list",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node ./node_modules/next/dist/bin/next dev",
+    "build": "node ./node_modules/next/dist/bin/next build",
+    "start": "node ./node_modules/next/dist/bin/next start",
+    "worker": "node ./node_modules/tsx/dist/cli.mjs -r tsconfig-paths/register worker/src/index.ts",
+    "test": "node ./node_modules/vitest/vitest.mjs run",
+    "test:watch": "node ./node_modules/vitest/vitest.mjs",
+    "lint": "node ./node_modules/next/dist/bin/next lint",
+    "prisma:generate": "node ./node_modules/prisma/build/index.js generate",
+    "prisma:migrate": "node ./node_modules/prisma/build/index.js migrate dev",
+    "prisma:deploy": "node ./node_modules/prisma/build/index.js migrate deploy",
+    "seed": "node ./node_modules/tsx/dist/cli.mjs -r tsconfig-paths/register prisma/seed.ts",
+    "postinstall": "node ./node_modules/prisma/build/index.js generate"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.2.1",
+    "@radix-ui/react-dialog": "^1.1.4",
+    "@radix-ui/react-tabs": "^1.1.2",
+    "bullmq": "^5.32.0",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "ioredis": "^5.4.2",
+    "lucide-react": "^0.474.0",
+    "next": "^15.1.4",
+    "p-limit": "^6.2.0",
+    "pino": "^9.6.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwind-merge": "^2.5.5",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "@types/react": "^19.0.2",
+    "@types/react-dom": "^19.0.2",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.1",
+    "pino-pretty": "^13.0.0",
+    "prisma": "^6.2.1",
+    "tailwindcss": "^3.4.17",
+    "tsx": "^4.19.2",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.7.3",
+    "vitest": "^2.1.8"
+  }
+}

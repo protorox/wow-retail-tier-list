@@ -1,0 +1,7202 @@
+[
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 89.04,
+    "bossName": "Boss 1",
+    "buildString": "Mage-Arcane-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3680.28,
+      "Haste": 3454.23,
+      "Mastery": 3190.41,
+      "Vers": 3137.98
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1000"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 92.56,
+    "bossName": "Boss 2",
+    "buildString": "Mage-Arcane-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3730.05,
+      "Haste": 3598.97,
+      "Mastery": 3348.07,
+      "Vers": 3002.47
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1001"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 89.69,
+    "bossName": "Boss 3",
+    "buildString": "Mage-Arcane-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3613.48,
+      "Haste": 3566.01,
+      "Mastery": 3295.66,
+      "Vers": 3043.14
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1002"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 90.48,
+    "bossName": "Boss 4",
+    "buildString": "Mage-Arcane-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3719.58,
+      "Haste": 3415.19,
+      "Mastery": 3201.86,
+      "Vers": 3095.46
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1003"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 92.76,
+    "bossName": "Boss 5",
+    "buildString": "Mage-Arcane-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3651.94,
+      "Haste": 3511.51,
+      "Mastery": 3311.41,
+      "Vers": 3062.41
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1004"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 88.52,
+    "bossName": "Boss 6",
+    "buildString": "Mage-Arcane-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3725.6,
+      "Haste": 3604.09,
+      "Mastery": 3246.28,
+      "Vers": 3097.68
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1005"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 94.64,
+    "bossName": "Boss 7",
+    "buildString": "Mage-Arcane-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3614.69,
+      "Haste": 3455.94,
+      "Mastery": 3297.63,
+      "Vers": 3139.88
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1006"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 88.06,
+    "bossName": "Boss 8",
+    "buildString": "Mage-Arcane-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3651.17,
+      "Haste": 3485.04,
+      "Mastery": 3309.17,
+      "Vers": 3118.29
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1007"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 93.31,
+    "bossName": "Boss 1",
+    "buildString": "Mage-Arcane-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3715.15,
+      "Haste": 3437.03,
+      "Mastery": 3332.24,
+      "Vers": 3170.2
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1008"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 94.52,
+    "bossName": "Boss 2",
+    "buildString": "Mage-Arcane-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3677.05,
+      "Haste": 3489.67,
+      "Mastery": 3192.56,
+      "Vers": 2990.06
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1009"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 91.84,
+    "bossName": "Boss 3",
+    "buildString": "Mage-Arcane-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3631.35,
+      "Haste": 3608.92,
+      "Mastery": 3388.71,
+      "Vers": 3170.22
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1010"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 94.26,
+    "bossName": "Boss 4",
+    "buildString": "Mage-Arcane-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3701.89,
+      "Haste": 3576.5,
+      "Mastery": 3361.82,
+      "Vers": 3032.86
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1011"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 88.87,
+    "bossName": "Boss 5",
+    "buildString": "Mage-Arcane-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3638.15,
+      "Haste": 3468.32,
+      "Mastery": 3296.15,
+      "Vers": 3092.65
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1012"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 90.48,
+    "bossName": "Boss 6",
+    "buildString": "Mage-Arcane-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3741.95,
+      "Haste": 3483.12,
+      "Mastery": 3289.72,
+      "Vers": 3129.23
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1013"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 95.58,
+    "bossName": "Boss 7",
+    "buildString": "Mage-Arcane-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3603.73,
+      "Haste": 3560.58,
+      "Mastery": 3194.11,
+      "Vers": 3128.83
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1014"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 92.68,
+    "bossName": "Boss 8",
+    "buildString": "Mage-Arcane-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3707.36,
+      "Haste": 3447.73,
+      "Mastery": 3342.44,
+      "Vers": 3133.66
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1015"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 88.84,
+    "bossName": "Boss 1",
+    "buildString": "Mage-Arcane-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3742.49,
+      "Haste": 3432.6,
+      "Mastery": 3304.34,
+      "Vers": 3098.19
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1016"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 88.52,
+    "bossName": "Boss 2",
+    "buildString": "Mage-Arcane-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3783.02,
+      "Haste": 3543.84,
+      "Mastery": 3286.54,
+      "Vers": 2970.62
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1017"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 88.56,
+    "bossName": "Boss 3",
+    "buildString": "Mage-Arcane-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3710.46,
+      "Haste": 3414.79,
+      "Mastery": 3337.72,
+      "Vers": 2998.48
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1018"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 89.32,
+    "bossName": "Boss 4",
+    "buildString": "Mage-Arcane-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3740.6,
+      "Haste": 3470.69,
+      "Mastery": 3216.13,
+      "Vers": 3156.58
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1019"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 89.89,
+    "bossName": "Boss 5",
+    "buildString": "Mage-Arcane-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3632.06,
+      "Haste": 3477.4,
+      "Mastery": 3358.41,
+      "Vers": 3015.89
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1020"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 91.31,
+    "bossName": "Boss 6",
+    "buildString": "Mage-Arcane-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3655.09,
+      "Haste": 3510.08,
+      "Mastery": 3208.13,
+      "Vers": 3151.87
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1021"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 91.8,
+    "bossName": "Boss 7",
+    "buildString": "Mage-Arcane-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3799.21,
+      "Haste": 3600.38,
+      "Mastery": 3282.45,
+      "Vers": 3030.52
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1022"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 89.83,
+    "bossName": "Boss 8",
+    "buildString": "Mage-Arcane-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3637.96,
+      "Haste": 3600.49,
+      "Mastery": 3275.37,
+      "Vers": 3070.79
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1023"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 95.11,
+    "bossName": "Boss 1",
+    "buildString": "Mage-Arcane-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3729.48,
+      "Haste": 3482.63,
+      "Mastery": 3236.17,
+      "Vers": 3181.91
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1024"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 91.36,
+    "bossName": "Boss 2",
+    "buildString": "Mage-Arcane-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3711.3,
+      "Haste": 3412.65,
+      "Mastery": 3201.61,
+      "Vers": 3054.17
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1025"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 94.81,
+    "bossName": "Boss 3",
+    "buildString": "Mage-Arcane-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3688.32,
+      "Haste": 3596.31,
+      "Mastery": 3260.72,
+      "Vers": 3102.05
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1026"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 92.43,
+    "bossName": "Boss 4",
+    "buildString": "Mage-Arcane-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3632.4,
+      "Haste": 3457.28,
+      "Mastery": 3390.85,
+      "Vers": 2978.53
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1027"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 91.88,
+    "bossName": "Boss 5",
+    "buildString": "Mage-Arcane-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3652.96,
+      "Haste": 3445.64,
+      "Mastery": 3284.32,
+      "Vers": 3159.56
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1028"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 91.02,
+    "bossName": "Boss 6",
+    "buildString": "Mage-Arcane-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3817.28,
+      "Haste": 3536.18,
+      "Mastery": 3264.5,
+      "Vers": 2998.12
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1029"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 95.05,
+    "bossName": "Boss 7",
+    "buildString": "Mage-Arcane-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3740.18,
+      "Haste": 3475.77,
+      "Mastery": 3210.95,
+      "Vers": 3167.01
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1030"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 93.32,
+    "bossName": "Boss 8",
+    "buildString": "Mage-Arcane-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3702.22,
+      "Haste": 3459.29,
+      "Mastery": 3233.07,
+      "Vers": 3030.21
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1031"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 91.58,
+    "bossName": "Boss 1",
+    "buildString": "Mage-Arcane-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3776.38,
+      "Haste": 3473.97,
+      "Mastery": 3232.02,
+      "Vers": 3062.42
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1032"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 95.93,
+    "bossName": "Boss 2",
+    "buildString": "Mage-Arcane-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3602.91,
+      "Haste": 3511.88,
+      "Mastery": 3330.92,
+      "Vers": 3076.96
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1033"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 88.29,
+    "bossName": "Boss 3",
+    "buildString": "Mage-Arcane-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3692.58,
+      "Haste": 3550.86,
+      "Mastery": 3193.46,
+      "Vers": 3082.06
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1034"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 89.43,
+    "bossName": "Boss 4",
+    "buildString": "Mage-Arcane-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3638.48,
+      "Haste": 3524.1,
+      "Mastery": 3311.31,
+      "Vers": 3026.16
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1035"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 93.65,
+    "bossName": "Boss 5",
+    "buildString": "Mage-Arcane-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3616.98,
+      "Haste": 3499.06,
+      "Mastery": 3200.94,
+      "Vers": 2972.59
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1036"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 91.08,
+    "bossName": "Boss 6",
+    "buildString": "Mage-Arcane-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3678.52,
+      "Haste": 3406.23,
+      "Mastery": 3330.5,
+      "Vers": 3044.66
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1037"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 89.55,
+    "bossName": "Boss 7",
+    "buildString": "Mage-Arcane-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3689.02,
+      "Haste": 3418.86,
+      "Mastery": 3297.79,
+      "Vers": 3141.96
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1038"
+  },
+  {
+    "role": "DPS",
+    "className": "Mage",
+    "specName": "Arcane",
+    "parse": 88.29,
+    "bossName": "Boss 8",
+    "buildString": "Mage-Arcane-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3703,
+      "Haste": 3444.49,
+      "Mastery": 3300.39,
+      "Vers": 3089.03
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1039"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 89.74,
+    "bossName": "Boss 1",
+    "buildString": "Warlock-Demonology-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3669.52,
+      "Haste": 3489.68,
+      "Mastery": 3399.11,
+      "Vers": 2997.64
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1100"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 86.69,
+    "bossName": "Boss 2",
+    "buildString": "Warlock-Demonology-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3792.34,
+      "Haste": 3579.12,
+      "Mastery": 3216.17,
+      "Vers": 3184.11
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1101"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 90.27,
+    "bossName": "Boss 3",
+    "buildString": "Warlock-Demonology-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3785.55,
+      "Haste": 3450.57,
+      "Mastery": 3389.46,
+      "Vers": 2982.96
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1102"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 92.74,
+    "bossName": "Boss 4",
+    "buildString": "Warlock-Demonology-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3666.3,
+      "Haste": 3567.14,
+      "Mastery": 3284.52,
+      "Vers": 3078.57
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1103"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 86.83,
+    "bossName": "Boss 5",
+    "buildString": "Warlock-Demonology-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3665.98,
+      "Haste": 3488.42,
+      "Mastery": 3325.59,
+      "Vers": 2996.28
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1104"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 94.46,
+    "bossName": "Boss 6",
+    "buildString": "Warlock-Demonology-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3701.63,
+      "Haste": 3542.04,
+      "Mastery": 3367.41,
+      "Vers": 2994.54
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1105"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 91.58,
+    "bossName": "Boss 7",
+    "buildString": "Warlock-Demonology-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3728.86,
+      "Haste": 3417.15,
+      "Mastery": 3269.35,
+      "Vers": 3099.64
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1106"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 93.1,
+    "bossName": "Boss 8",
+    "buildString": "Warlock-Demonology-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3658.05,
+      "Haste": 3401.39,
+      "Mastery": 3253.21,
+      "Vers": 3024.42
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1107"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 93.96,
+    "bossName": "Boss 1",
+    "buildString": "Warlock-Demonology-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3715.13,
+      "Haste": 3422.82,
+      "Mastery": 3386.26,
+      "Vers": 2972.58
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1108"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 90.43,
+    "bossName": "Boss 2",
+    "buildString": "Warlock-Demonology-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3708.4,
+      "Haste": 3418.05,
+      "Mastery": 3290.85,
+      "Vers": 3129.71
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1109"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 93.65,
+    "bossName": "Boss 3",
+    "buildString": "Warlock-Demonology-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3622.66,
+      "Haste": 3487.99,
+      "Mastery": 3181.8,
+      "Vers": 3162.35
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1110"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 87.48,
+    "bossName": "Boss 4",
+    "buildString": "Warlock-Demonology-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3781.77,
+      "Haste": 3402.23,
+      "Mastery": 3372.59,
+      "Vers": 3046.12
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1111"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 90.68,
+    "bossName": "Boss 5",
+    "buildString": "Warlock-Demonology-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3700.67,
+      "Haste": 3433.09,
+      "Mastery": 3351.46,
+      "Vers": 3023.86
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1112"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 91.49,
+    "bossName": "Boss 6",
+    "buildString": "Warlock-Demonology-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3807.74,
+      "Haste": 3440.05,
+      "Mastery": 3288.04,
+      "Vers": 3134.44
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1113"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 86.53,
+    "bossName": "Boss 7",
+    "buildString": "Warlock-Demonology-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3658.04,
+      "Haste": 3505.3,
+      "Mastery": 3351.13,
+      "Vers": 2972.87
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1114"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 88.2,
+    "bossName": "Boss 8",
+    "buildString": "Warlock-Demonology-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3678.04,
+      "Haste": 3480.8,
+      "Mastery": 3258.1,
+      "Vers": 3001.95
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1115"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 92.44,
+    "bossName": "Boss 1",
+    "buildString": "Warlock-Demonology-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3622,
+      "Haste": 3426.94,
+      "Mastery": 3375.94,
+      "Vers": 3015.78
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1116"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 86.95,
+    "bossName": "Boss 2",
+    "buildString": "Warlock-Demonology-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3680.1,
+      "Haste": 3403.12,
+      "Mastery": 3194.11,
+      "Vers": 3034.87
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1117"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 91.82,
+    "bossName": "Boss 3",
+    "buildString": "Warlock-Demonology-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3618.22,
+      "Haste": 3489.72,
+      "Mastery": 3328.81,
+      "Vers": 3112.68
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1118"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 88.59,
+    "bossName": "Boss 4",
+    "buildString": "Warlock-Demonology-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3688.95,
+      "Haste": 3601.32,
+      "Mastery": 3358.43,
+      "Vers": 3153.18
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1119"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 93.69,
+    "bossName": "Boss 5",
+    "buildString": "Warlock-Demonology-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3793.28,
+      "Haste": 3530.54,
+      "Mastery": 3189.3,
+      "Vers": 3178.69
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1120"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 88.21,
+    "bossName": "Boss 6",
+    "buildString": "Warlock-Demonology-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3752.41,
+      "Haste": 3441.62,
+      "Mastery": 3331.24,
+      "Vers": 3167.15
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1121"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 92.12,
+    "bossName": "Boss 7",
+    "buildString": "Warlock-Demonology-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3808.53,
+      "Haste": 3492.96,
+      "Mastery": 3201.68,
+      "Vers": 3117.92
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1122"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 86.66,
+    "bossName": "Boss 8",
+    "buildString": "Warlock-Demonology-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3813.64,
+      "Haste": 3467.44,
+      "Mastery": 3397.43,
+      "Vers": 3124.84
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1123"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 89.07,
+    "bossName": "Boss 1",
+    "buildString": "Warlock-Demonology-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3745.27,
+      "Haste": 3509.26,
+      "Mastery": 3352.67,
+      "Vers": 3015.41
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1124"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 91.49,
+    "bossName": "Boss 2",
+    "buildString": "Warlock-Demonology-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3787.59,
+      "Haste": 3546.06,
+      "Mastery": 3181.93,
+      "Vers": 3094.51
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1125"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 88.06,
+    "bossName": "Boss 3",
+    "buildString": "Warlock-Demonology-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3756.69,
+      "Haste": 3594.78,
+      "Mastery": 3326.58,
+      "Vers": 3131.44
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1126"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 94.09,
+    "bossName": "Boss 4",
+    "buildString": "Warlock-Demonology-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3628.41,
+      "Haste": 3409.88,
+      "Mastery": 3323.2,
+      "Vers": 3108.55
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1127"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 93.28,
+    "bossName": "Boss 5",
+    "buildString": "Warlock-Demonology-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3627.2,
+      "Haste": 3452.18,
+      "Mastery": 3212.55,
+      "Vers": 3089.97
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1128"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 88.92,
+    "bossName": "Boss 6",
+    "buildString": "Warlock-Demonology-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3654.53,
+      "Haste": 3437,
+      "Mastery": 3187.22,
+      "Vers": 3089.02
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1129"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 91.11,
+    "bossName": "Boss 7",
+    "buildString": "Warlock-Demonology-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3815.22,
+      "Haste": 3519.91,
+      "Mastery": 3236.82,
+      "Vers": 3152.57
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1130"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 87.75,
+    "bossName": "Boss 8",
+    "buildString": "Warlock-Demonology-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3620.22,
+      "Haste": 3498.61,
+      "Mastery": 3228.86,
+      "Vers": 3000.95
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1131"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 87.43,
+    "bossName": "Boss 1",
+    "buildString": "Warlock-Demonology-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3604.4,
+      "Haste": 3549.55,
+      "Mastery": 3204.16,
+      "Vers": 2982.13
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1132"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 90.07,
+    "bossName": "Boss 2",
+    "buildString": "Warlock-Demonology-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3637.98,
+      "Haste": 3417.93,
+      "Mastery": 3225.41,
+      "Vers": 3038.69
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1133"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 89.3,
+    "bossName": "Boss 3",
+    "buildString": "Warlock-Demonology-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3650.3,
+      "Haste": 3579.83,
+      "Mastery": 3217.56,
+      "Vers": 2986.5
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1134"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 90.52,
+    "bossName": "Boss 4",
+    "buildString": "Warlock-Demonology-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3684.95,
+      "Haste": 3535.46,
+      "Mastery": 3239.17,
+      "Vers": 3004.13
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1135"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 88.66,
+    "bossName": "Boss 5",
+    "buildString": "Warlock-Demonology-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3725.14,
+      "Haste": 3392.49,
+      "Mastery": 3303.68,
+      "Vers": 3012.01
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1136"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 93.48,
+    "bossName": "Boss 6",
+    "buildString": "Warlock-Demonology-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3728.59,
+      "Haste": 3458.76,
+      "Mastery": 3189.93,
+      "Vers": 3140.76
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1137"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 90.54,
+    "bossName": "Boss 7",
+    "buildString": "Warlock-Demonology-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3651.39,
+      "Haste": 3603.89,
+      "Mastery": 3341.45,
+      "Vers": 3088.11
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1138"
+  },
+  {
+    "role": "DPS",
+    "className": "Warlock",
+    "specName": "Demonology",
+    "parse": 89.74,
+    "bossName": "Boss 8",
+    "buildString": "Warlock-Demonology-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3680.27,
+      "Haste": 3489.18,
+      "Mastery": 3334.05,
+      "Vers": 3004.23
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1139"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 91.91,
+    "bossName": "Boss 1",
+    "buildString": "Priest-Shadow-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3793.19,
+      "Haste": 3445.89,
+      "Mastery": 3191.73,
+      "Vers": 3045.22
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1200"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 86.52,
+    "bossName": "Boss 2",
+    "buildString": "Priest-Shadow-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3748.22,
+      "Haste": 3581.72,
+      "Mastery": 3370.84,
+      "Vers": 3135.01
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1201"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 89.89,
+    "bossName": "Boss 3",
+    "buildString": "Priest-Shadow-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3720.78,
+      "Haste": 3535.87,
+      "Mastery": 3192.92,
+      "Vers": 3155.91
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1202"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 86.08,
+    "bossName": "Boss 4",
+    "buildString": "Priest-Shadow-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3609.87,
+      "Haste": 3543.04,
+      "Mastery": 3226.51,
+      "Vers": 3128.38
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1203"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 87.82,
+    "bossName": "Boss 5",
+    "buildString": "Priest-Shadow-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3653.63,
+      "Haste": 3507.01,
+      "Mastery": 3258.77,
+      "Vers": 3160.66
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1204"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 86.64,
+    "bossName": "Boss 6",
+    "buildString": "Priest-Shadow-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3715.21,
+      "Haste": 3604.64,
+      "Mastery": 3337.68,
+      "Vers": 3169.19
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1205"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 90.62,
+    "bossName": "Boss 7",
+    "buildString": "Priest-Shadow-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3659.78,
+      "Haste": 3561.21,
+      "Mastery": 3265.77,
+      "Vers": 3030.81
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1206"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 89.88,
+    "bossName": "Boss 8",
+    "buildString": "Priest-Shadow-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3723.75,
+      "Haste": 3458.34,
+      "Mastery": 3186.7,
+      "Vers": 3168.03
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1207"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 85.79,
+    "bossName": "Boss 1",
+    "buildString": "Priest-Shadow-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3777.64,
+      "Haste": 3435.6,
+      "Mastery": 3285.79,
+      "Vers": 3148.53
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1208"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 88.07,
+    "bossName": "Boss 2",
+    "buildString": "Priest-Shadow-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3683.68,
+      "Haste": 3607.34,
+      "Mastery": 3266.01,
+      "Vers": 3140.46
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1209"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 87.6,
+    "bossName": "Boss 3",
+    "buildString": "Priest-Shadow-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3649.75,
+      "Haste": 3536.02,
+      "Mastery": 3360.88,
+      "Vers": 3164.81
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1210"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 85.3,
+    "bossName": "Boss 4",
+    "buildString": "Priest-Shadow-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3701.16,
+      "Haste": 3463.77,
+      "Mastery": 3365.75,
+      "Vers": 3006.63
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1211"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 88.84,
+    "bossName": "Boss 5",
+    "buildString": "Priest-Shadow-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3811.72,
+      "Haste": 3563.46,
+      "Mastery": 3209.1,
+      "Vers": 3006.48
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1212"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 85.47,
+    "bossName": "Boss 6",
+    "buildString": "Priest-Shadow-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3815.75,
+      "Haste": 3411.16,
+      "Mastery": 3305.29,
+      "Vers": 3093.67
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1213"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 86.86,
+    "bossName": "Boss 7",
+    "buildString": "Priest-Shadow-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3762.48,
+      "Haste": 3441.13,
+      "Mastery": 3370.42,
+      "Vers": 3142.92
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1214"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 86.11,
+    "bossName": "Boss 8",
+    "buildString": "Priest-Shadow-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3614.47,
+      "Haste": 3545.25,
+      "Mastery": 3222.66,
+      "Vers": 3115.76
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1215"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 86.92,
+    "bossName": "Boss 1",
+    "buildString": "Priest-Shadow-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3611.3,
+      "Haste": 3437.91,
+      "Mastery": 3368.51,
+      "Vers": 2988.11
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1216"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 85.03,
+    "bossName": "Boss 2",
+    "buildString": "Priest-Shadow-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3760.02,
+      "Haste": 3467.99,
+      "Mastery": 3396.25,
+      "Vers": 3125.33
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1217"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 89.9,
+    "bossName": "Boss 3",
+    "buildString": "Priest-Shadow-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3773.47,
+      "Haste": 3458.86,
+      "Mastery": 3237.75,
+      "Vers": 3125.86
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1218"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 90.74,
+    "bossName": "Boss 4",
+    "buildString": "Priest-Shadow-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3677.61,
+      "Haste": 3537.64,
+      "Mastery": 3339.68,
+      "Vers": 3094.33
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1219"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 86.86,
+    "bossName": "Boss 5",
+    "buildString": "Priest-Shadow-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3768.76,
+      "Haste": 3434.53,
+      "Mastery": 3304.89,
+      "Vers": 3165.18
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1220"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 86.44,
+    "bossName": "Boss 6",
+    "buildString": "Priest-Shadow-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3701.52,
+      "Haste": 3552.88,
+      "Mastery": 3184.78,
+      "Vers": 3037.16
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1221"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 89.69,
+    "bossName": "Boss 7",
+    "buildString": "Priest-Shadow-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3787.84,
+      "Haste": 3410.65,
+      "Mastery": 3242.99,
+      "Vers": 3059.46
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1222"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 88.4,
+    "bossName": "Boss 8",
+    "buildString": "Priest-Shadow-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3667.73,
+      "Haste": 3393.37,
+      "Mastery": 3290.82,
+      "Vers": 3129.36
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1223"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 89.99,
+    "bossName": "Boss 1",
+    "buildString": "Priest-Shadow-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3631.75,
+      "Haste": 3439.04,
+      "Mastery": 3354.31,
+      "Vers": 3141.77
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1224"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 85.9,
+    "bossName": "Boss 2",
+    "buildString": "Priest-Shadow-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3755.12,
+      "Haste": 3494.51,
+      "Mastery": 3253.1,
+      "Vers": 3010.29
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1225"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 92.44,
+    "bossName": "Boss 3",
+    "buildString": "Priest-Shadow-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3703.33,
+      "Haste": 3543.39,
+      "Mastery": 3290.46,
+      "Vers": 3139.47
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1226"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 88.07,
+    "bossName": "Boss 4",
+    "buildString": "Priest-Shadow-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3648.77,
+      "Haste": 3424.77,
+      "Mastery": 3194.14,
+      "Vers": 3147.77
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1227"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 87.03,
+    "bossName": "Boss 5",
+    "buildString": "Priest-Shadow-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3657.73,
+      "Haste": 3542.21,
+      "Mastery": 3267.29,
+      "Vers": 3020.37
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1228"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 85.3,
+    "bossName": "Boss 6",
+    "buildString": "Priest-Shadow-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3746.9,
+      "Haste": 3602.03,
+      "Mastery": 3348.57,
+      "Vers": 3170.96
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1229"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 86.93,
+    "bossName": "Boss 7",
+    "buildString": "Priest-Shadow-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3728.49,
+      "Haste": 3560.05,
+      "Mastery": 3320.32,
+      "Vers": 2971.43
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1230"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 90.64,
+    "bossName": "Boss 8",
+    "buildString": "Priest-Shadow-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3722.75,
+      "Haste": 3475.37,
+      "Mastery": 3183.72,
+      "Vers": 3028.27
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1231"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 92.61,
+    "bossName": "Boss 1",
+    "buildString": "Priest-Shadow-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3796.59,
+      "Haste": 3590.15,
+      "Mastery": 3359.53,
+      "Vers": 3064.24
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1232"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 89.5,
+    "bossName": "Boss 2",
+    "buildString": "Priest-Shadow-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3607.11,
+      "Haste": 3533.82,
+      "Mastery": 3233.04,
+      "Vers": 3104
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1233"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 89.58,
+    "bossName": "Boss 3",
+    "buildString": "Priest-Shadow-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3808.29,
+      "Haste": 3510.37,
+      "Mastery": 3221.76,
+      "Vers": 3122.15
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1234"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 91.96,
+    "bossName": "Boss 4",
+    "buildString": "Priest-Shadow-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3719.59,
+      "Haste": 3507.02,
+      "Mastery": 3324.24,
+      "Vers": 3132.11
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1235"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 89.79,
+    "bossName": "Boss 5",
+    "buildString": "Priest-Shadow-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3614.79,
+      "Haste": 3602.97,
+      "Mastery": 3208.61,
+      "Vers": 3054.4
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1236"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 89.49,
+    "bossName": "Boss 6",
+    "buildString": "Priest-Shadow-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3709.46,
+      "Haste": 3396.46,
+      "Mastery": 3399.1,
+      "Vers": 3022.59
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1237"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 89.82,
+    "bossName": "Boss 7",
+    "buildString": "Priest-Shadow-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3805.72,
+      "Haste": 3408.7,
+      "Mastery": 3379.23,
+      "Vers": 3025.62
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1238"
+  },
+  {
+    "role": "DPS",
+    "className": "Priest",
+    "specName": "Shadow",
+    "parse": 92.88,
+    "bossName": "Boss 8",
+    "buildString": "Priest-Shadow-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3812.57,
+      "Haste": 3403.25,
+      "Mastery": 3210.04,
+      "Vers": 2984.9
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1239"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 89.34,
+    "bossName": "Boss 1",
+    "buildString": "Evoker-Devastation-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3600.59,
+      "Haste": 3559.36,
+      "Mastery": 3382.1,
+      "Vers": 3044.92
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1300"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 90.95,
+    "bossName": "Boss 2",
+    "buildString": "Evoker-Devastation-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3729.58,
+      "Haste": 3438.09,
+      "Mastery": 3340.05,
+      "Vers": 2976.11
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1301"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 83.79,
+    "bossName": "Boss 3",
+    "buildString": "Evoker-Devastation-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3747.99,
+      "Haste": 3579.98,
+      "Mastery": 3298.41,
+      "Vers": 3108.86
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1302"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 84.15,
+    "bossName": "Boss 4",
+    "buildString": "Evoker-Devastation-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3783.16,
+      "Haste": 3573.26,
+      "Mastery": 3187.87,
+      "Vers": 3057.73
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1303"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 90.58,
+    "bossName": "Boss 5",
+    "buildString": "Evoker-Devastation-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3701.36,
+      "Haste": 3411.87,
+      "Mastery": 3351.12,
+      "Vers": 3075.14
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1304"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 84.99,
+    "bossName": "Boss 6",
+    "buildString": "Evoker-Devastation-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3797.08,
+      "Haste": 3522.47,
+      "Mastery": 3247.58,
+      "Vers": 2973.85
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1305"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 89.46,
+    "bossName": "Boss 7",
+    "buildString": "Evoker-Devastation-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3710.95,
+      "Haste": 3460.04,
+      "Mastery": 3226.76,
+      "Vers": 3017.92
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1306"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 86.46,
+    "bossName": "Boss 8",
+    "buildString": "Evoker-Devastation-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3756.02,
+      "Haste": 3451.83,
+      "Mastery": 3209.81,
+      "Vers": 3042
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1307"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 90.83,
+    "bossName": "Boss 1",
+    "buildString": "Evoker-Devastation-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3812.28,
+      "Haste": 3509.55,
+      "Mastery": 3339.35,
+      "Vers": 3098.76
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1308"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 85.17,
+    "bossName": "Boss 2",
+    "buildString": "Evoker-Devastation-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3749.56,
+      "Haste": 3409.91,
+      "Mastery": 3297.76,
+      "Vers": 2994.94
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1309"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 90.92,
+    "bossName": "Boss 3",
+    "buildString": "Evoker-Devastation-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3618.98,
+      "Haste": 3543.92,
+      "Mastery": 3374.29,
+      "Vers": 3136.25
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1310"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 87.02,
+    "bossName": "Boss 4",
+    "buildString": "Evoker-Devastation-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3613.67,
+      "Haste": 3555.46,
+      "Mastery": 3321.49,
+      "Vers": 3161.82
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1311"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 88.13,
+    "bossName": "Boss 5",
+    "buildString": "Evoker-Devastation-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3799.14,
+      "Haste": 3609.78,
+      "Mastery": 3181.9,
+      "Vers": 2988.95
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1312"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 86.59,
+    "bossName": "Boss 6",
+    "buildString": "Evoker-Devastation-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3614.56,
+      "Haste": 3452.91,
+      "Mastery": 3225.72,
+      "Vers": 3189.22
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1313"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 90.05,
+    "bossName": "Boss 7",
+    "buildString": "Evoker-Devastation-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3785.51,
+      "Haste": 3443.06,
+      "Mastery": 3220.73,
+      "Vers": 3156.88
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1314"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 86.78,
+    "bossName": "Boss 8",
+    "buildString": "Evoker-Devastation-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3609.88,
+      "Haste": 3595.11,
+      "Mastery": 3235.56,
+      "Vers": 3011.07
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1315"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 90.84,
+    "bossName": "Boss 1",
+    "buildString": "Evoker-Devastation-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3737.75,
+      "Haste": 3499.58,
+      "Mastery": 3337.74,
+      "Vers": 3072.88
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1316"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 90.98,
+    "bossName": "Boss 2",
+    "buildString": "Evoker-Devastation-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3666.96,
+      "Haste": 3557.44,
+      "Mastery": 3287.88,
+      "Vers": 3119.01
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1317"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 87.55,
+    "bossName": "Boss 3",
+    "buildString": "Evoker-Devastation-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3635.79,
+      "Haste": 3572.41,
+      "Mastery": 3331.57,
+      "Vers": 3173.37
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1318"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 89.23,
+    "bossName": "Boss 4",
+    "buildString": "Evoker-Devastation-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3654.09,
+      "Haste": 3542,
+      "Mastery": 3230.45,
+      "Vers": 2978.19
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1319"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 85.81,
+    "bossName": "Boss 5",
+    "buildString": "Evoker-Devastation-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3634.72,
+      "Haste": 3569.14,
+      "Mastery": 3274.05,
+      "Vers": 3006.18
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1320"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 85.02,
+    "bossName": "Boss 6",
+    "buildString": "Evoker-Devastation-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3746.56,
+      "Haste": 3555.77,
+      "Mastery": 3314.03,
+      "Vers": 3055.42
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1321"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 85.44,
+    "bossName": "Boss 7",
+    "buildString": "Evoker-Devastation-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3670.83,
+      "Haste": 3559.88,
+      "Mastery": 3342.06,
+      "Vers": 3048.19
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1322"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 89.62,
+    "bossName": "Boss 8",
+    "buildString": "Evoker-Devastation-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3622,
+      "Haste": 3497.63,
+      "Mastery": 3193.12,
+      "Vers": 3175.48
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1323"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 85.35,
+    "bossName": "Boss 1",
+    "buildString": "Evoker-Devastation-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3614.83,
+      "Haste": 3511.73,
+      "Mastery": 3355.25,
+      "Vers": 3168.18
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1324"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 91.22,
+    "bossName": "Boss 2",
+    "buildString": "Evoker-Devastation-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3618.76,
+      "Haste": 3467.36,
+      "Mastery": 3367.24,
+      "Vers": 3116.49
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1325"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 90.49,
+    "bossName": "Boss 3",
+    "buildString": "Evoker-Devastation-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3720.67,
+      "Haste": 3556.89,
+      "Mastery": 3305.05,
+      "Vers": 2978.28
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1326"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 85.27,
+    "bossName": "Boss 4",
+    "buildString": "Evoker-Devastation-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3637.3,
+      "Haste": 3594.18,
+      "Mastery": 3298.28,
+      "Vers": 2977.53
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1327"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 87.09,
+    "bossName": "Boss 5",
+    "buildString": "Evoker-Devastation-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3777.81,
+      "Haste": 3419.36,
+      "Mastery": 3277.07,
+      "Vers": 3133.51
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1328"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 83.87,
+    "bossName": "Boss 6",
+    "buildString": "Evoker-Devastation-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3677.47,
+      "Haste": 3534.75,
+      "Mastery": 3390.26,
+      "Vers": 3021.19
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1329"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 87.27,
+    "bossName": "Boss 7",
+    "buildString": "Evoker-Devastation-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3742.64,
+      "Haste": 3552.16,
+      "Mastery": 3335.1,
+      "Vers": 3083.3
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1330"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 84.5,
+    "bossName": "Boss 8",
+    "buildString": "Evoker-Devastation-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3707.56,
+      "Haste": 3512.06,
+      "Mastery": 3238.7,
+      "Vers": 3094.12
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1331"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 86.55,
+    "bossName": "Boss 1",
+    "buildString": "Evoker-Devastation-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3742.82,
+      "Haste": 3454.35,
+      "Mastery": 3231.17,
+      "Vers": 3054.98
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1332"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 88.83,
+    "bossName": "Boss 2",
+    "buildString": "Evoker-Devastation-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3815.47,
+      "Haste": 3440.77,
+      "Mastery": 3250.31,
+      "Vers": 3001.13
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1333"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 88.2,
+    "bossName": "Boss 3",
+    "buildString": "Evoker-Devastation-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3720.34,
+      "Haste": 3588.43,
+      "Mastery": 3297.27,
+      "Vers": 3039.62
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1334"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 84.5,
+    "bossName": "Boss 4",
+    "buildString": "Evoker-Devastation-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3782.12,
+      "Haste": 3453.94,
+      "Mastery": 3262.7,
+      "Vers": 3177.41
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1335"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 90.28,
+    "bossName": "Boss 5",
+    "buildString": "Evoker-Devastation-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3807.35,
+      "Haste": 3407.26,
+      "Mastery": 3202.52,
+      "Vers": 3158.94
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1336"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 85.02,
+    "bossName": "Boss 6",
+    "buildString": "Evoker-Devastation-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3805.53,
+      "Haste": 3594.52,
+      "Mastery": 3182.34,
+      "Vers": 2972.14
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1337"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 89.56,
+    "bossName": "Boss 7",
+    "buildString": "Evoker-Devastation-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3618.14,
+      "Haste": 3568.53,
+      "Mastery": 3349.33,
+      "Vers": 3141.74
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1338"
+  },
+  {
+    "role": "DPS",
+    "className": "Evoker",
+    "specName": "Devastation",
+    "parse": 88.83,
+    "bossName": "Boss 8",
+    "buildString": "Evoker-Devastation-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3654.52,
+      "Haste": 3465.79,
+      "Mastery": 3350.5,
+      "Vers": 3048.53
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1339"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 89.26,
+    "bossName": "Boss 1",
+    "buildString": "Paladin-Retribution-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3653.18,
+      "Haste": 3428.79,
+      "Mastery": 3295.73,
+      "Vers": 2993.27
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1400"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 87.84,
+    "bossName": "Boss 2",
+    "buildString": "Paladin-Retribution-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3647.13,
+      "Haste": 3471.92,
+      "Mastery": 3184.34,
+      "Vers": 3183.77
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1401"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 82.35,
+    "bossName": "Boss 3",
+    "buildString": "Paladin-Retribution-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3611.75,
+      "Haste": 3569.72,
+      "Mastery": 3213.57,
+      "Vers": 3163.52
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1402"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 88.55,
+    "bossName": "Boss 4",
+    "buildString": "Paladin-Retribution-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3773.74,
+      "Haste": 3525.77,
+      "Mastery": 3207.44,
+      "Vers": 3000.47
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1403"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 85.89,
+    "bossName": "Boss 5",
+    "buildString": "Paladin-Retribution-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3819.39,
+      "Haste": 3500.75,
+      "Mastery": 3364.42,
+      "Vers": 3154.3
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1404"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 84.72,
+    "bossName": "Boss 6",
+    "buildString": "Paladin-Retribution-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3640.9,
+      "Haste": 3438.08,
+      "Mastery": 3242.45,
+      "Vers": 3020.72
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1405"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 89.28,
+    "bossName": "Boss 7",
+    "buildString": "Paladin-Retribution-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3639,
+      "Haste": 3585.71,
+      "Mastery": 3379.73,
+      "Vers": 2991.19
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1406"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 84.58,
+    "bossName": "Boss 8",
+    "buildString": "Paladin-Retribution-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3700.57,
+      "Haste": 3472.51,
+      "Mastery": 3389.96,
+      "Vers": 2986.94
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1407"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 87.03,
+    "bossName": "Boss 1",
+    "buildString": "Paladin-Retribution-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3709.85,
+      "Haste": 3518.1,
+      "Mastery": 3350.57,
+      "Vers": 3185.68
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1408"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 82.83,
+    "bossName": "Boss 2",
+    "buildString": "Paladin-Retribution-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3612,
+      "Haste": 3554.69,
+      "Mastery": 3202.98,
+      "Vers": 2980.02
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1409"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 86,
+    "bossName": "Boss 3",
+    "buildString": "Paladin-Retribution-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3687.92,
+      "Haste": 3540.06,
+      "Mastery": 3243.56,
+      "Vers": 3006.6
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1410"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 84.12,
+    "bossName": "Boss 4",
+    "buildString": "Paladin-Retribution-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3719.31,
+      "Haste": 3600.59,
+      "Mastery": 3284.65,
+      "Vers": 2984.93
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1411"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 87.67,
+    "bossName": "Boss 5",
+    "buildString": "Paladin-Retribution-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3683.31,
+      "Haste": 3403.66,
+      "Mastery": 3344.74,
+      "Vers": 3065.36
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1412"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 82.92,
+    "bossName": "Boss 6",
+    "buildString": "Paladin-Retribution-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3775.9,
+      "Haste": 3498.85,
+      "Mastery": 3227.39,
+      "Vers": 3185.72
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1413"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 88.51,
+    "bossName": "Boss 7",
+    "buildString": "Paladin-Retribution-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3763.94,
+      "Haste": 3567.58,
+      "Mastery": 3188.5,
+      "Vers": 3076.22
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1414"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 83.5,
+    "bossName": "Boss 8",
+    "buildString": "Paladin-Retribution-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3645.34,
+      "Haste": 3520.97,
+      "Mastery": 3271.84,
+      "Vers": 3132.63
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1415"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 87.05,
+    "bossName": "Boss 1",
+    "buildString": "Paladin-Retribution-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3637.57,
+      "Haste": 3486.01,
+      "Mastery": 3292.92,
+      "Vers": 3077.85
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1416"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 85.68,
+    "bossName": "Boss 2",
+    "buildString": "Paladin-Retribution-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3714.66,
+      "Haste": 3560.29,
+      "Mastery": 3251.4,
+      "Vers": 3032.11
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1417"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 88.09,
+    "bossName": "Boss 3",
+    "buildString": "Paladin-Retribution-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3792.99,
+      "Haste": 3555.62,
+      "Mastery": 3292.68,
+      "Vers": 3032.42
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1418"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 83.59,
+    "bossName": "Boss 4",
+    "buildString": "Paladin-Retribution-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3686.65,
+      "Haste": 3391.37,
+      "Mastery": 3219.17,
+      "Vers": 2981.91
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1419"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 88.26,
+    "bossName": "Boss 5",
+    "buildString": "Paladin-Retribution-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3712.94,
+      "Haste": 3478.19,
+      "Mastery": 3312.23,
+      "Vers": 3030
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1420"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 86.62,
+    "bossName": "Boss 6",
+    "buildString": "Paladin-Retribution-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3749.18,
+      "Haste": 3553.09,
+      "Mastery": 3385.69,
+      "Vers": 3064.39
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1421"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 85.16,
+    "bossName": "Boss 7",
+    "buildString": "Paladin-Retribution-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3601.72,
+      "Haste": 3487.16,
+      "Mastery": 3372.21,
+      "Vers": 3076.1
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1422"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 85.58,
+    "bossName": "Boss 8",
+    "buildString": "Paladin-Retribution-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3808.63,
+      "Haste": 3427.01,
+      "Mastery": 3243.64,
+      "Vers": 3078.86
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1423"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 89.75,
+    "bossName": "Boss 1",
+    "buildString": "Paladin-Retribution-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3797.15,
+      "Haste": 3491.49,
+      "Mastery": 3366.94,
+      "Vers": 3024.27
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1424"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 88.7,
+    "bossName": "Boss 2",
+    "buildString": "Paladin-Retribution-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3777.56,
+      "Haste": 3464.95,
+      "Mastery": 3316.98,
+      "Vers": 3154.13
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1425"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 83.34,
+    "bossName": "Boss 3",
+    "buildString": "Paladin-Retribution-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3774.93,
+      "Haste": 3588.71,
+      "Mastery": 3327.79,
+      "Vers": 3031.65
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1426"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 89.25,
+    "bossName": "Boss 4",
+    "buildString": "Paladin-Retribution-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3760.16,
+      "Haste": 3592.24,
+      "Mastery": 3323.9,
+      "Vers": 2992.92
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1427"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 85.52,
+    "bossName": "Boss 5",
+    "buildString": "Paladin-Retribution-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3782.07,
+      "Haste": 3485.58,
+      "Mastery": 3273.15,
+      "Vers": 3180.23
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1428"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 83.52,
+    "bossName": "Boss 6",
+    "buildString": "Paladin-Retribution-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3661.89,
+      "Haste": 3474.51,
+      "Mastery": 3322.68,
+      "Vers": 3018.86
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1429"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 84,
+    "bossName": "Boss 7",
+    "buildString": "Paladin-Retribution-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3791.8,
+      "Haste": 3440.08,
+      "Mastery": 3279.38,
+      "Vers": 3118.63
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1430"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 82.22,
+    "bossName": "Boss 8",
+    "buildString": "Paladin-Retribution-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3738.85,
+      "Haste": 3523.73,
+      "Mastery": 3196.39,
+      "Vers": 3001.72
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1431"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 89.41,
+    "bossName": "Boss 1",
+    "buildString": "Paladin-Retribution-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3715.55,
+      "Haste": 3399.46,
+      "Mastery": 3306.77,
+      "Vers": 3017.9
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1432"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 82.45,
+    "bossName": "Boss 2",
+    "buildString": "Paladin-Retribution-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3638.53,
+      "Haste": 3534.09,
+      "Mastery": 3305.55,
+      "Vers": 3188.5
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1433"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 89.91,
+    "bossName": "Boss 3",
+    "buildString": "Paladin-Retribution-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3736.1,
+      "Haste": 3596.86,
+      "Mastery": 3181.27,
+      "Vers": 3159.79
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1434"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 86.43,
+    "bossName": "Boss 4",
+    "buildString": "Paladin-Retribution-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3625.83,
+      "Haste": 3519.01,
+      "Mastery": 3397.65,
+      "Vers": 3046.93
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1435"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 87.49,
+    "bossName": "Boss 5",
+    "buildString": "Paladin-Retribution-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3602.72,
+      "Haste": 3464.23,
+      "Mastery": 3326.33,
+      "Vers": 3188.81
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1436"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 84.56,
+    "bossName": "Boss 6",
+    "buildString": "Paladin-Retribution-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3738.75,
+      "Haste": 3590.4,
+      "Mastery": 3210.85,
+      "Vers": 3034.51
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1437"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 84.72,
+    "bossName": "Boss 7",
+    "buildString": "Paladin-Retribution-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3653.83,
+      "Haste": 3603.01,
+      "Mastery": 3282.46,
+      "Vers": 3121.33
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1438"
+  },
+  {
+    "role": "DPS",
+    "className": "Paladin",
+    "specName": "Retribution",
+    "parse": 86.64,
+    "bossName": "Boss 8",
+    "buildString": "Paladin-Retribution-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3618.67,
+      "Haste": 3420.28,
+      "Mastery": 3327.59,
+      "Vers": 3104.64
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1439"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 87.57,
+    "bossName": "Boss 1",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3689.23,
+      "Haste": 3409.99,
+      "Mastery": 3366.94,
+      "Vers": 3099.31
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1500"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 82.15,
+    "bossName": "Boss 2",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3732.71,
+      "Haste": 3537.66,
+      "Mastery": 3245.94,
+      "Vers": 3052.33
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1501"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 86.71,
+    "bossName": "Boss 3",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3684.45,
+      "Haste": 3405.63,
+      "Mastery": 3335.88,
+      "Vers": 3005.99
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1502"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 82.9,
+    "bossName": "Boss 4",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3815.23,
+      "Haste": 3402.29,
+      "Mastery": 3265.13,
+      "Vers": 3151.04
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1503"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 82.2,
+    "bossName": "Boss 5",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3688.08,
+      "Haste": 3440.71,
+      "Mastery": 3299.46,
+      "Vers": 3008.71
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1504"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 88.22,
+    "bossName": "Boss 6",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3763.6,
+      "Haste": 3465.52,
+      "Mastery": 3310.51,
+      "Vers": 3040.65
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1505"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 83.32,
+    "bossName": "Boss 7",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3712.71,
+      "Haste": 3526.97,
+      "Mastery": 3291.06,
+      "Vers": 3185.42
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1506"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 87.42,
+    "bossName": "Boss 8",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3815.44,
+      "Haste": 3420.82,
+      "Mastery": 3215.99,
+      "Vers": 3160.43
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1507"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 80.99,
+    "bossName": "Boss 1",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3724.5,
+      "Haste": 3432.69,
+      "Mastery": 3347.28,
+      "Vers": 2987.53
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1508"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 88.24,
+    "bossName": "Boss 2",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3652.17,
+      "Haste": 3545.34,
+      "Mastery": 3221.78,
+      "Vers": 3081.22
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1509"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 84.26,
+    "bossName": "Boss 3",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3798.84,
+      "Haste": 3527.48,
+      "Mastery": 3280.04,
+      "Vers": 3017.43
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1510"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 86.35,
+    "bossName": "Boss 4",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3781.87,
+      "Haste": 3462.41,
+      "Mastery": 3194.81,
+      "Vers": 3161.82
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1511"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 85.11,
+    "bossName": "Boss 5",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3602.99,
+      "Haste": 3395.02,
+      "Mastery": 3277.47,
+      "Vers": 2995.61
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1512"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 87.6,
+    "bossName": "Boss 6",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3732.93,
+      "Haste": 3415.64,
+      "Mastery": 3241.13,
+      "Vers": 3177.79
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1513"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 88.31,
+    "bossName": "Boss 7",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3651.66,
+      "Haste": 3519.22,
+      "Mastery": 3378.64,
+      "Vers": 2982.01
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1514"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 87.85,
+    "bossName": "Boss 8",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3682.84,
+      "Haste": 3458.48,
+      "Mastery": 3314.47,
+      "Vers": 3007.03
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1515"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 87.53,
+    "bossName": "Boss 1",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3741.23,
+      "Haste": 3469.81,
+      "Mastery": 3388.89,
+      "Vers": 3039.26
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1516"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 83.51,
+    "bossName": "Boss 2",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3611.92,
+      "Haste": 3450.67,
+      "Mastery": 3393.64,
+      "Vers": 2986.56
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1517"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 84.72,
+    "bossName": "Boss 3",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3660.21,
+      "Haste": 3447.49,
+      "Mastery": 3277.83,
+      "Vers": 3142.12
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1518"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 82.4,
+    "bossName": "Boss 4",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3771.37,
+      "Haste": 3473.37,
+      "Mastery": 3183.46,
+      "Vers": 3117.82
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1519"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 83.18,
+    "bossName": "Boss 5",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3819.59,
+      "Haste": 3534.79,
+      "Mastery": 3249.85,
+      "Vers": 3186.38
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1520"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 85.85,
+    "bossName": "Boss 6",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3685.57,
+      "Haste": 3426.8,
+      "Mastery": 3186.62,
+      "Vers": 2971.97
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1521"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 81.62,
+    "bossName": "Boss 7",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3702.42,
+      "Haste": 3396.69,
+      "Mastery": 3374.87,
+      "Vers": 2989.14
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1522"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 86.05,
+    "bossName": "Boss 8",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3769.86,
+      "Haste": 3475.79,
+      "Mastery": 3316.73,
+      "Vers": 3089.92
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1523"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 82.45,
+    "bossName": "Boss 1",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3776.76,
+      "Haste": 3459.65,
+      "Mastery": 3373.25,
+      "Vers": 3099.51
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1524"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 84.91,
+    "bossName": "Boss 2",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3792.25,
+      "Haste": 3537.07,
+      "Mastery": 3191.18,
+      "Vers": 3000.86
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1525"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 80.98,
+    "bossName": "Boss 3",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3806.13,
+      "Haste": 3588.3,
+      "Mastery": 3199.14,
+      "Vers": 3108.83
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1526"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 85.89,
+    "bossName": "Boss 4",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3678.98,
+      "Haste": 3573.26,
+      "Mastery": 3233.99,
+      "Vers": 3134.69
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1527"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 84.48,
+    "bossName": "Boss 5",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3743.09,
+      "Haste": 3470.75,
+      "Mastery": 3358.26,
+      "Vers": 3001.9
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1528"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 84.81,
+    "bossName": "Boss 6",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3635.12,
+      "Haste": 3429.58,
+      "Mastery": 3349.87,
+      "Vers": 2994.41
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1529"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 83.48,
+    "bossName": "Boss 7",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3761.66,
+      "Haste": 3472.85,
+      "Mastery": 3285.2,
+      "Vers": 3018.58
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1530"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 86.79,
+    "bossName": "Boss 8",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3679.04,
+      "Haste": 3416.83,
+      "Mastery": 3237.01,
+      "Vers": 3180.25
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1531"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 83.67,
+    "bossName": "Boss 1",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3768.81,
+      "Haste": 3445.65,
+      "Mastery": 3188.55,
+      "Vers": 3038.22
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1532"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 82.51,
+    "bossName": "Boss 2",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3610.24,
+      "Haste": 3583.54,
+      "Mastery": 3385.38,
+      "Vers": 3055.83
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1533"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 83.94,
+    "bossName": "Boss 3",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3651.61,
+      "Haste": 3605.85,
+      "Mastery": 3366.45,
+      "Vers": 2972.1
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1534"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 85.63,
+    "bossName": "Boss 4",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3801.5,
+      "Haste": 3390.77,
+      "Mastery": 3196.04,
+      "Vers": 3033.97
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1535"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 87.07,
+    "bossName": "Boss 5",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-1",
+    "stats": {
+      "Crit": 3782.01,
+      "Haste": 3492.89,
+      "Mastery": 3377.97,
+      "Vers": 3031.22
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1536"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 86.54,
+    "bossName": "Boss 6",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-2",
+    "stats": {
+      "Crit": 3705.08,
+      "Haste": 3520.53,
+      "Mastery": 3233.77,
+      "Vers": 3095.5
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1537"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 86.16,
+    "bossName": "Boss 7",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-3",
+    "stats": {
+      "Crit": 3773.69,
+      "Haste": 3597.89,
+      "Mastery": 3246.03,
+      "Vers": 3185.01
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1538"
+  },
+  {
+    "role": "DPS",
+    "className": "Death Knight",
+    "specName": "Unholy",
+    "parse": 81.26,
+    "bossName": "Boss 8",
+    "buildString": "Death Knight-Unholy-RAID-BUILD-4",
+    "stats": {
+      "Crit": 3769.02,
+      "Haste": 3413.68,
+      "Mastery": 3228.44,
+      "Vers": 3015.93
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1539"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 80.38,
+    "bossName": "Boss 1",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3645.04,
+      "Mastery": 3477.34,
+      "Vers": 3363.69,
+      "Crit": 3102.04
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1600"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 85.16,
+    "bossName": "Boss 2",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3691.67,
+      "Mastery": 3523.96,
+      "Vers": 3270.22,
+      "Crit": 3163.41
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1601"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 79.56,
+    "bossName": "Boss 3",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3607.37,
+      "Mastery": 3568.91,
+      "Vers": 3278.92,
+      "Crit": 3185.17
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1602"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 82.43,
+    "bossName": "Boss 4",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3782.1,
+      "Mastery": 3432.97,
+      "Vers": 3300.45,
+      "Crit": 3166.95
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1603"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 80.96,
+    "bossName": "Boss 5",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3731.28,
+      "Mastery": 3598.53,
+      "Vers": 3243.66,
+      "Crit": 3103.7
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1604"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 86.08,
+    "bossName": "Boss 6",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3621.19,
+      "Mastery": 3437.31,
+      "Vers": 3225.71,
+      "Crit": 2978.05
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1605"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 84.27,
+    "bossName": "Boss 7",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3606.04,
+      "Mastery": 3409.82,
+      "Vers": 3353.8,
+      "Crit": 2984.49
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1606"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 85.81,
+    "bossName": "Boss 8",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3616.86,
+      "Mastery": 3536.5,
+      "Vers": 3298.76,
+      "Crit": 3105.19
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1607"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 85.41,
+    "bossName": "Boss 1",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3601.88,
+      "Mastery": 3420.49,
+      "Vers": 3199.97,
+      "Crit": 3137.22
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1608"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 79.3,
+    "bossName": "Boss 2",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3778.24,
+      "Mastery": 3601.46,
+      "Vers": 3261.41,
+      "Crit": 3170.75
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1609"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 82.69,
+    "bossName": "Boss 3",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3794.34,
+      "Mastery": 3400.05,
+      "Vers": 3358.11,
+      "Crit": 2977.44
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1610"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 83.59,
+    "bossName": "Boss 4",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3662.14,
+      "Mastery": 3392,
+      "Vers": 3312.15,
+      "Crit": 3168.28
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1611"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 85.02,
+    "bossName": "Boss 5",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3818.5,
+      "Mastery": 3491.24,
+      "Vers": 3397.33,
+      "Crit": 3059.86
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1612"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 83.42,
+    "bossName": "Boss 6",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3654.44,
+      "Mastery": 3460.56,
+      "Vers": 3311.32,
+      "Crit": 3167.84
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1613"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 79.4,
+    "bossName": "Boss 7",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3791.21,
+      "Mastery": 3428.87,
+      "Vers": 3353.98,
+      "Crit": 3086.4
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1614"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 80.67,
+    "bossName": "Boss 8",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3741.72,
+      "Mastery": 3533.56,
+      "Vers": 3190.65,
+      "Crit": 3112.25
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1615"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 81.1,
+    "bossName": "Boss 1",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3755.96,
+      "Mastery": 3566.54,
+      "Vers": 3258.68,
+      "Crit": 3011.77
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1616"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 79.92,
+    "bossName": "Boss 2",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3808.97,
+      "Mastery": 3502.54,
+      "Vers": 3316.04,
+      "Crit": 2989.7
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1617"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 84.96,
+    "bossName": "Boss 3",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3689.74,
+      "Mastery": 3587.96,
+      "Vers": 3190.08,
+      "Crit": 3117.87
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1618"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 83.85,
+    "bossName": "Boss 4",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3749.49,
+      "Mastery": 3548.91,
+      "Vers": 3305.23,
+      "Crit": 2982.41
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1619"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 79.18,
+    "bossName": "Boss 5",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3667.86,
+      "Mastery": 3556.76,
+      "Vers": 3227.84,
+      "Crit": 3087.91
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1620"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 83.52,
+    "bossName": "Boss 6",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3635.41,
+      "Mastery": 3429.75,
+      "Vers": 3286.89,
+      "Crit": 3177.06
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1621"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 82.32,
+    "bossName": "Boss 7",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3771.11,
+      "Mastery": 3589.25,
+      "Vers": 3328.96,
+      "Crit": 3184.39
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1622"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 84.47,
+    "bossName": "Boss 8",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3753.29,
+      "Mastery": 3589.34,
+      "Vers": 3226.33,
+      "Crit": 3082.79
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1623"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 84.75,
+    "bossName": "Boss 1",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3762.96,
+      "Mastery": 3498.41,
+      "Vers": 3376.89,
+      "Crit": 3161.68
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1624"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 81.8,
+    "bossName": "Boss 2",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3658.37,
+      "Mastery": 3511.87,
+      "Vers": 3214.89,
+      "Crit": 2975.78
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1625"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 79.87,
+    "bossName": "Boss 3",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3679.78,
+      "Mastery": 3554.82,
+      "Vers": 3231.59,
+      "Crit": 3143.7
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1626"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 82.12,
+    "bossName": "Boss 4",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3603.71,
+      "Mastery": 3534.19,
+      "Vers": 3245.15,
+      "Crit": 3175.57
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1627"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 83.56,
+    "bossName": "Boss 5",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3646.09,
+      "Mastery": 3579.55,
+      "Vers": 3299.15,
+      "Crit": 3029.28
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1628"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 79.56,
+    "bossName": "Boss 6",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3813.88,
+      "Mastery": 3392.42,
+      "Vers": 3229.6,
+      "Crit": 3115.09
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1629"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 81.9,
+    "bossName": "Boss 7",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3684.92,
+      "Mastery": 3563.79,
+      "Vers": 3320.03,
+      "Crit": 3188.45
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1630"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 86.45,
+    "bossName": "Boss 8",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3716.1,
+      "Mastery": 3579.91,
+      "Vers": 3185.04,
+      "Crit": 2991.19
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1631"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 80.42,
+    "bossName": "Boss 1",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3680,
+      "Mastery": 3556.69,
+      "Vers": 3282.41,
+      "Crit": 3101.4
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1632"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 81.14,
+    "bossName": "Boss 2",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3730.38,
+      "Mastery": 3543.06,
+      "Vers": 3334.35,
+      "Crit": 3132.6
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1633"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 86.52,
+    "bossName": "Boss 3",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3697.17,
+      "Mastery": 3473.92,
+      "Vers": 3378.47,
+      "Crit": 3002.78
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1634"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 81.16,
+    "bossName": "Boss 4",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3691.8,
+      "Mastery": 3553.64,
+      "Vers": 3269.45,
+      "Crit": 3094.27
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1635"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 82.04,
+    "bossName": "Boss 5",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3603.66,
+      "Mastery": 3530.89,
+      "Vers": 3272.36,
+      "Crit": 3085.55
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1636"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 80.03,
+    "bossName": "Boss 6",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3689,
+      "Mastery": 3506.15,
+      "Vers": 3328.76,
+      "Crit": 2976.09
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1637"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 85.1,
+    "bossName": "Boss 7",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3613.33,
+      "Mastery": 3413.03,
+      "Vers": 3197,
+      "Crit": 3005.6
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1638"
+  },
+  {
+    "role": "TANK",
+    "className": "Demon Hunter",
+    "specName": "Vengeance",
+    "parse": 83.34,
+    "bossName": "Boss 8",
+    "buildString": "Demon Hunter-Vengeance-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3688.84,
+      "Mastery": 3594.78,
+      "Vers": 3247.92,
+      "Crit": 3129.02
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1639"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 80.37,
+    "bossName": "Boss 1",
+    "buildString": "Death Knight-Blood-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3688.14,
+      "Mastery": 3397.55,
+      "Vers": 3277.66,
+      "Crit": 3148.92
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1700"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 80.11,
+    "bossName": "Boss 2",
+    "buildString": "Death Knight-Blood-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3635.97,
+      "Mastery": 3501.81,
+      "Vers": 3298.87,
+      "Crit": 3066.58
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1701"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 80.56,
+    "bossName": "Boss 3",
+    "buildString": "Death Knight-Blood-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3720.24,
+      "Mastery": 3413.52,
+      "Vers": 3232.03,
+      "Crit": 2993.53
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1702"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 84.6,
+    "bossName": "Boss 4",
+    "buildString": "Death Knight-Blood-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3764.2,
+      "Mastery": 3576.61,
+      "Vers": 3258.42,
+      "Crit": 3064.97
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1703"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 79.36,
+    "bossName": "Boss 5",
+    "buildString": "Death Knight-Blood-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3801,
+      "Mastery": 3528.33,
+      "Vers": 3296.1,
+      "Crit": 3136.68
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1704"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 81.2,
+    "bossName": "Boss 6",
+    "buildString": "Death Knight-Blood-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3772.39,
+      "Mastery": 3578.83,
+      "Vers": 3360.66,
+      "Crit": 3146.7
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1705"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 84.95,
+    "bossName": "Boss 7",
+    "buildString": "Death Knight-Blood-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3672.79,
+      "Mastery": 3416.52,
+      "Vers": 3271.8,
+      "Crit": 3043.38
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1706"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 85.32,
+    "bossName": "Boss 8",
+    "buildString": "Death Knight-Blood-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3700.16,
+      "Mastery": 3580.47,
+      "Vers": 3247.29,
+      "Crit": 3160.91
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1707"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 82.61,
+    "bossName": "Boss 1",
+    "buildString": "Death Knight-Blood-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3754.84,
+      "Mastery": 3420.93,
+      "Vers": 3185.31,
+      "Crit": 3063.42
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1708"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 80.76,
+    "bossName": "Boss 2",
+    "buildString": "Death Knight-Blood-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3607.47,
+      "Mastery": 3469.2,
+      "Vers": 3276.21,
+      "Crit": 3038.82
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1709"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 77.73,
+    "bossName": "Boss 3",
+    "buildString": "Death Knight-Blood-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3736.81,
+      "Mastery": 3417.55,
+      "Vers": 3304.59,
+      "Crit": 3182.94
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1710"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 80.28,
+    "bossName": "Boss 4",
+    "buildString": "Death Knight-Blood-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3758.3,
+      "Mastery": 3409.97,
+      "Vers": 3282.26,
+      "Crit": 3154.83
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1711"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 79.18,
+    "bossName": "Boss 5",
+    "buildString": "Death Knight-Blood-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3723.9,
+      "Mastery": 3584.29,
+      "Vers": 3212.71,
+      "Crit": 3043.42
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1712"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 80.76,
+    "bossName": "Boss 6",
+    "buildString": "Death Knight-Blood-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3673.43,
+      "Mastery": 3405.93,
+      "Vers": 3307.14,
+      "Crit": 3146.05
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1713"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 82.98,
+    "bossName": "Boss 7",
+    "buildString": "Death Knight-Blood-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3637.75,
+      "Mastery": 3433.36,
+      "Vers": 3332.34,
+      "Crit": 3098.6
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1714"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 83.87,
+    "bossName": "Boss 8",
+    "buildString": "Death Knight-Blood-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3653.62,
+      "Mastery": 3575.31,
+      "Vers": 3290.14,
+      "Crit": 2997.23
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1715"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 82.4,
+    "bossName": "Boss 1",
+    "buildString": "Death Knight-Blood-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3789.95,
+      "Mastery": 3559.25,
+      "Vers": 3228.17,
+      "Crit": 2991.36
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1716"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 79.78,
+    "bossName": "Boss 2",
+    "buildString": "Death Knight-Blood-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3745.07,
+      "Mastery": 3410.8,
+      "Vers": 3281.29,
+      "Crit": 3107.21
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1717"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 81.08,
+    "bossName": "Boss 3",
+    "buildString": "Death Knight-Blood-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3774.33,
+      "Mastery": 3503.26,
+      "Vers": 3283.13,
+      "Crit": 3081.13
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1718"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 81.27,
+    "bossName": "Boss 4",
+    "buildString": "Death Knight-Blood-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3647.14,
+      "Mastery": 3516.48,
+      "Vers": 3266.67,
+      "Crit": 3081.97
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1719"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 83.54,
+    "bossName": "Boss 5",
+    "buildString": "Death Knight-Blood-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3812.57,
+      "Mastery": 3604,
+      "Vers": 3312.87,
+      "Crit": 3121.17
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1720"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 77.88,
+    "bossName": "Boss 6",
+    "buildString": "Death Knight-Blood-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3712.26,
+      "Mastery": 3587.27,
+      "Vers": 3186.22,
+      "Crit": 3129.51
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1721"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 83.95,
+    "bossName": "Boss 7",
+    "buildString": "Death Knight-Blood-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3619.42,
+      "Mastery": 3475.73,
+      "Vers": 3295.79,
+      "Crit": 3039.04
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1722"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 82.04,
+    "bossName": "Boss 8",
+    "buildString": "Death Knight-Blood-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3622.5,
+      "Mastery": 3551.25,
+      "Vers": 3240.31,
+      "Crit": 3088.95
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1723"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 80.28,
+    "bossName": "Boss 1",
+    "buildString": "Death Knight-Blood-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3712.12,
+      "Mastery": 3575.47,
+      "Vers": 3216.07,
+      "Crit": 3033.65
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1724"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 77.8,
+    "bossName": "Boss 2",
+    "buildString": "Death Knight-Blood-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3649.69,
+      "Mastery": 3538.65,
+      "Vers": 3225.68,
+      "Crit": 3111.72
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1725"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 83.97,
+    "bossName": "Boss 3",
+    "buildString": "Death Knight-Blood-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3716.21,
+      "Mastery": 3528.27,
+      "Vers": 3386.59,
+      "Crit": 3034
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1726"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 81.64,
+    "bossName": "Boss 4",
+    "buildString": "Death Knight-Blood-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3699.67,
+      "Mastery": 3595.96,
+      "Vers": 3357.44,
+      "Crit": 3169.46
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1727"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 78.15,
+    "bossName": "Boss 5",
+    "buildString": "Death Knight-Blood-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3639.49,
+      "Mastery": 3401.21,
+      "Vers": 3300.95,
+      "Crit": 3087.19
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1728"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 84.38,
+    "bossName": "Boss 6",
+    "buildString": "Death Knight-Blood-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3686.66,
+      "Mastery": 3390.44,
+      "Vers": 3301.88,
+      "Crit": 3173.16
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1729"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 85.4,
+    "bossName": "Boss 7",
+    "buildString": "Death Knight-Blood-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3737.96,
+      "Mastery": 3549.92,
+      "Vers": 3218.62,
+      "Crit": 3160.42
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1730"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 83.05,
+    "bossName": "Boss 8",
+    "buildString": "Death Knight-Blood-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3723.2,
+      "Mastery": 3471.4,
+      "Vers": 3187.17,
+      "Crit": 3071.44
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1731"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 82.09,
+    "bossName": "Boss 1",
+    "buildString": "Death Knight-Blood-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3664.14,
+      "Mastery": 3509.3,
+      "Vers": 3236.5,
+      "Crit": 3051.59
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1732"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 84.1,
+    "bossName": "Boss 2",
+    "buildString": "Death Knight-Blood-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3724.06,
+      "Mastery": 3508.29,
+      "Vers": 3334.16,
+      "Crit": 2972.71
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1733"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 80.99,
+    "bossName": "Boss 3",
+    "buildString": "Death Knight-Blood-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3807.28,
+      "Mastery": 3500.67,
+      "Vers": 3201.51,
+      "Crit": 3126.15
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1734"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 80.12,
+    "bossName": "Boss 4",
+    "buildString": "Death Knight-Blood-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3807.7,
+      "Mastery": 3512.72,
+      "Vers": 3217.77,
+      "Crit": 3144.62
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1735"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 80.99,
+    "bossName": "Boss 5",
+    "buildString": "Death Knight-Blood-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3626.08,
+      "Mastery": 3579.59,
+      "Vers": 3332.66,
+      "Crit": 3112.39
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1736"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 83.57,
+    "bossName": "Boss 6",
+    "buildString": "Death Knight-Blood-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3615.61,
+      "Mastery": 3528.6,
+      "Vers": 3287.25,
+      "Crit": 3123.9
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1737"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 80.12,
+    "bossName": "Boss 7",
+    "buildString": "Death Knight-Blood-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3695.72,
+      "Mastery": 3410.66,
+      "Vers": 3263.13,
+      "Crit": 3050.51
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1738"
+  },
+  {
+    "role": "TANK",
+    "className": "Death Knight",
+    "specName": "Blood",
+    "parse": 78.63,
+    "bossName": "Boss 8",
+    "buildString": "Death Knight-Blood-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3774.26,
+      "Mastery": 3480.16,
+      "Vers": 3200,
+      "Crit": 3175.84
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1739"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 76.39,
+    "bossName": "Boss 1",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3718.37,
+      "Mastery": 3503.64,
+      "Vers": 3202.07,
+      "Crit": 3060.07
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1800"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 80.54,
+    "bossName": "Boss 2",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3754.46,
+      "Mastery": 3597.66,
+      "Vers": 3273.99,
+      "Crit": 3033.74
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1801"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 81.38,
+    "bossName": "Boss 3",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3758.13,
+      "Mastery": 3516.79,
+      "Vers": 3266.87,
+      "Crit": 3041.99
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1802"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 80.23,
+    "bossName": "Boss 4",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3634.75,
+      "Mastery": 3472.52,
+      "Vers": 3255.53,
+      "Crit": 3020.14
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1803"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 77.57,
+    "bossName": "Boss 5",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3691.96,
+      "Mastery": 3404.17,
+      "Vers": 3247.94,
+      "Crit": 3041.73
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1804"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 78.34,
+    "bossName": "Boss 6",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3684.99,
+      "Mastery": 3563.03,
+      "Vers": 3328.16,
+      "Crit": 3020.32
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1805"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 81.08,
+    "bossName": "Boss 7",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3616.36,
+      "Mastery": 3551,
+      "Vers": 3354.12,
+      "Crit": 3066.37
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1806"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 82.85,
+    "bossName": "Boss 8",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3651.21,
+      "Mastery": 3555.34,
+      "Vers": 3311.61,
+      "Crit": 3180.71
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1807"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 76.12,
+    "bossName": "Boss 1",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3809.8,
+      "Mastery": 3600.66,
+      "Vers": 3226.08,
+      "Crit": 3166.06
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1808"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 77.47,
+    "bossName": "Boss 2",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3658.67,
+      "Mastery": 3460.12,
+      "Vers": 3293.73,
+      "Crit": 2978.14
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1809"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 76.42,
+    "bossName": "Boss 3",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3762.1,
+      "Mastery": 3447.04,
+      "Vers": 3353.48,
+      "Crit": 3078.03
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1810"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 80.25,
+    "bossName": "Boss 4",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3615.3,
+      "Mastery": 3448.65,
+      "Vers": 3241.3,
+      "Crit": 3027.14
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1811"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 78.89,
+    "bossName": "Boss 5",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3760.91,
+      "Mastery": 3503.47,
+      "Vers": 3368.44,
+      "Crit": 3166.44
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1812"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 82.09,
+    "bossName": "Boss 6",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3730.31,
+      "Mastery": 3503.69,
+      "Vers": 3325.08,
+      "Crit": 3001.26
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1813"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 76.66,
+    "bossName": "Boss 7",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3731.03,
+      "Mastery": 3564,
+      "Vers": 3350.49,
+      "Crit": 3113.02
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1814"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 80.11,
+    "bossName": "Boss 8",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3701.58,
+      "Mastery": 3518.01,
+      "Vers": 3391.22,
+      "Crit": 3119.04
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1815"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 82.48,
+    "bossName": "Boss 1",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3694.83,
+      "Mastery": 3523.49,
+      "Vers": 3268.14,
+      "Crit": 3161.57
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1816"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 76.57,
+    "bossName": "Boss 2",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3610.93,
+      "Mastery": 3577.32,
+      "Vers": 3293.42,
+      "Crit": 2986.82
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1817"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 80.51,
+    "bossName": "Boss 3",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3600.62,
+      "Mastery": 3480.89,
+      "Vers": 3358.2,
+      "Crit": 3014.79
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1818"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 80.79,
+    "bossName": "Boss 4",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3819.47,
+      "Mastery": 3476.65,
+      "Vers": 3351.34,
+      "Crit": 3000.39
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1819"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 79.62,
+    "bossName": "Boss 5",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3753.66,
+      "Mastery": 3576.23,
+      "Vers": 3369.89,
+      "Crit": 3126.17
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1820"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 78.75,
+    "bossName": "Boss 6",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3757.4,
+      "Mastery": 3560.18,
+      "Vers": 3281.21,
+      "Crit": 3126.83
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1821"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 79.72,
+    "bossName": "Boss 7",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3742.16,
+      "Mastery": 3429.52,
+      "Vers": 3396.81,
+      "Crit": 3185.41
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1822"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 76.57,
+    "bossName": "Boss 8",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3637.38,
+      "Mastery": 3428.81,
+      "Vers": 3397.71,
+      "Crit": 3080.85
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1823"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 80.88,
+    "bossName": "Boss 1",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3642.55,
+      "Mastery": 3420.32,
+      "Vers": 3250.77,
+      "Crit": 3106.46
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1824"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 83.24,
+    "bossName": "Boss 2",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3609.84,
+      "Mastery": 3588.76,
+      "Vers": 3255.43,
+      "Crit": 3018.66
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1825"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 79.15,
+    "bossName": "Boss 3",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3756.66,
+      "Mastery": 3395.73,
+      "Vers": 3219.98,
+      "Crit": 2975.06
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1826"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 79.13,
+    "bossName": "Boss 4",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3627.31,
+      "Mastery": 3402.99,
+      "Vers": 3186.53,
+      "Crit": 3160.96
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1827"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 79.23,
+    "bossName": "Boss 5",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3702.42,
+      "Mastery": 3583.41,
+      "Vers": 3283.25,
+      "Crit": 2983.03
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1828"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 79.76,
+    "bossName": "Boss 6",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3715.22,
+      "Mastery": 3398.37,
+      "Vers": 3362.99,
+      "Crit": 3128.9
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1829"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 80.21,
+    "bossName": "Boss 7",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3613.07,
+      "Mastery": 3420.23,
+      "Vers": 3306.56,
+      "Crit": 3011.32
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1830"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 82.32,
+    "bossName": "Boss 8",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3643.05,
+      "Mastery": 3438.52,
+      "Vers": 3329.48,
+      "Crit": 3055.32
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1831"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 77.29,
+    "bossName": "Boss 1",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3779.94,
+      "Mastery": 3428.22,
+      "Vers": 3190.47,
+      "Crit": 3026.97
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1832"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 81.03,
+    "bossName": "Boss 2",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3815.08,
+      "Mastery": 3418.63,
+      "Vers": 3380.35,
+      "Crit": 3002.05
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1833"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 81.31,
+    "bossName": "Boss 3",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3664.71,
+      "Mastery": 3581.38,
+      "Vers": 3229.54,
+      "Crit": 3013.21
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1834"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 80.98,
+    "bossName": "Boss 4",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3675.96,
+      "Mastery": 3435.84,
+      "Vers": 3192.9,
+      "Crit": 3134.03
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1835"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 76.97,
+    "bossName": "Boss 5",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3609.35,
+      "Mastery": 3470.63,
+      "Vers": 3390.22,
+      "Crit": 3118.46
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1836"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 79.14,
+    "bossName": "Boss 6",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3815.94,
+      "Mastery": 3459.68,
+      "Vers": 3241.07,
+      "Crit": 3134.4
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1837"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 80.9,
+    "bossName": "Boss 7",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3768.22,
+      "Mastery": 3411.57,
+      "Vers": 3292.6,
+      "Crit": 3169.97
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1838"
+  },
+  {
+    "role": "TANK",
+    "className": "Monk",
+    "specName": "Brewmaster",
+    "parse": 77.57,
+    "bossName": "Boss 8",
+    "buildString": "Monk-Brewmaster-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3663.13,
+      "Mastery": 3410.95,
+      "Vers": 3299.23,
+      "Crit": 3091.42
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1839"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 74.93,
+    "bossName": "Boss 1",
+    "buildString": "Priest-Discipline-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3816.28,
+      "Mastery": 3450.85,
+      "Crit": 3373.13,
+      "Vers": 3131.63
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1900"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 80.9,
+    "bossName": "Boss 2",
+    "buildString": "Priest-Discipline-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3606.52,
+      "Mastery": 3475.15,
+      "Crit": 3364.49,
+      "Vers": 3048.31
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1901"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 81.83,
+    "bossName": "Boss 3",
+    "buildString": "Priest-Discipline-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3709.79,
+      "Mastery": 3410.34,
+      "Crit": 3331.16,
+      "Vers": 3031.38
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1902"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 81.45,
+    "bossName": "Boss 4",
+    "buildString": "Priest-Discipline-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3701.96,
+      "Mastery": 3406,
+      "Crit": 3336.78,
+      "Vers": 3058.81
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1903"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 75.87,
+    "bossName": "Boss 5",
+    "buildString": "Priest-Discipline-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3610.1,
+      "Mastery": 3403.75,
+      "Crit": 3237.4,
+      "Vers": 3120.91
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1904"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 77.6,
+    "bossName": "Boss 6",
+    "buildString": "Priest-Discipline-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3691.98,
+      "Mastery": 3574.4,
+      "Crit": 3336.34,
+      "Vers": 2992.76
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1905"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 75.21,
+    "bossName": "Boss 7",
+    "buildString": "Priest-Discipline-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3763.89,
+      "Mastery": 3423.47,
+      "Crit": 3267.26,
+      "Vers": 3095.09
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1906"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 80.6,
+    "bossName": "Boss 8",
+    "buildString": "Priest-Discipline-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3616.9,
+      "Mastery": 3525.17,
+      "Crit": 3286.04,
+      "Vers": 3143.86
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1907"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 79.73,
+    "bossName": "Boss 1",
+    "buildString": "Priest-Discipline-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3642.11,
+      "Mastery": 3505.47,
+      "Crit": 3351.62,
+      "Vers": 2989.04
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1908"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 79.12,
+    "bossName": "Boss 2",
+    "buildString": "Priest-Discipline-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3685.28,
+      "Mastery": 3534.77,
+      "Crit": 3296.78,
+      "Vers": 3003.38
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1909"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 79.86,
+    "bossName": "Boss 3",
+    "buildString": "Priest-Discipline-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3651.88,
+      "Mastery": 3391.09,
+      "Crit": 3209.46,
+      "Vers": 3142.12
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1910"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 75.4,
+    "bossName": "Boss 4",
+    "buildString": "Priest-Discipline-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3663.34,
+      "Mastery": 3494.71,
+      "Crit": 3365.89,
+      "Vers": 3094.42
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1911"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 80.98,
+    "bossName": "Boss 5",
+    "buildString": "Priest-Discipline-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3765.7,
+      "Mastery": 3515.44,
+      "Crit": 3276.49,
+      "Vers": 3088.15
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1912"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 74.86,
+    "bossName": "Boss 6",
+    "buildString": "Priest-Discipline-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3631.86,
+      "Mastery": 3393.78,
+      "Crit": 3365.99,
+      "Vers": 3148.88
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1913"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 75.34,
+    "bossName": "Boss 7",
+    "buildString": "Priest-Discipline-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3798.88,
+      "Mastery": 3477.34,
+      "Crit": 3349.08,
+      "Vers": 3014.87
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1914"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 81.61,
+    "bossName": "Boss 8",
+    "buildString": "Priest-Discipline-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3601.63,
+      "Mastery": 3553.97,
+      "Crit": 3243.06,
+      "Vers": 3149.34
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1915"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 78.61,
+    "bossName": "Boss 1",
+    "buildString": "Priest-Discipline-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3724.41,
+      "Mastery": 3423.2,
+      "Crit": 3279.12,
+      "Vers": 3111.55
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1916"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 81.76,
+    "bossName": "Boss 2",
+    "buildString": "Priest-Discipline-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3692.09,
+      "Mastery": 3467.41,
+      "Crit": 3373.63,
+      "Vers": 3008.43
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1917"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 77.74,
+    "bossName": "Boss 3",
+    "buildString": "Priest-Discipline-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3762.26,
+      "Mastery": 3464.37,
+      "Crit": 3261.2,
+      "Vers": 3188.02
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1918"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 77.39,
+    "bossName": "Boss 4",
+    "buildString": "Priest-Discipline-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3739.92,
+      "Mastery": 3602.7,
+      "Crit": 3290.79,
+      "Vers": 3056.48
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1919"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 80.73,
+    "bossName": "Boss 5",
+    "buildString": "Priest-Discipline-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3776.32,
+      "Mastery": 3521.58,
+      "Crit": 3246.59,
+      "Vers": 2980.04
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1920"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 82.13,
+    "bossName": "Boss 6",
+    "buildString": "Priest-Discipline-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3633.2,
+      "Mastery": 3556.35,
+      "Crit": 3374.81,
+      "Vers": 3113.19
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1921"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 75.78,
+    "bossName": "Boss 7",
+    "buildString": "Priest-Discipline-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3713.9,
+      "Mastery": 3571.09,
+      "Crit": 3217.89,
+      "Vers": 3114.41
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1922"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 77.4,
+    "bossName": "Boss 8",
+    "buildString": "Priest-Discipline-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3682.45,
+      "Mastery": 3559.43,
+      "Crit": 3317.09,
+      "Vers": 2970.68
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1923"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 82.3,
+    "bossName": "Boss 1",
+    "buildString": "Priest-Discipline-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3731.75,
+      "Mastery": 3594.7,
+      "Crit": 3184.55,
+      "Vers": 3171.45
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1924"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 79.75,
+    "bossName": "Boss 2",
+    "buildString": "Priest-Discipline-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3661.73,
+      "Mastery": 3570.16,
+      "Crit": 3245.71,
+      "Vers": 3133.24
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1925"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 75.83,
+    "bossName": "Boss 3",
+    "buildString": "Priest-Discipline-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3728.26,
+      "Mastery": 3390.1,
+      "Crit": 3272.59,
+      "Vers": 3155.2
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1926"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 76.55,
+    "bossName": "Boss 4",
+    "buildString": "Priest-Discipline-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3743.27,
+      "Mastery": 3392.29,
+      "Crit": 3248.56,
+      "Vers": 3086.17
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1927"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 79.52,
+    "bossName": "Boss 5",
+    "buildString": "Priest-Discipline-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3726.48,
+      "Mastery": 3462.08,
+      "Crit": 3364.81,
+      "Vers": 2983.51
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1928"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 81.99,
+    "bossName": "Boss 6",
+    "buildString": "Priest-Discipline-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3688.95,
+      "Mastery": 3478.21,
+      "Crit": 3368.51,
+      "Vers": 3123.59
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1929"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 81.27,
+    "bossName": "Boss 7",
+    "buildString": "Priest-Discipline-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3648.22,
+      "Mastery": 3550.39,
+      "Crit": 3242.65,
+      "Vers": 3143.95
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1930"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 75.68,
+    "bossName": "Boss 8",
+    "buildString": "Priest-Discipline-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3654.96,
+      "Mastery": 3608.07,
+      "Crit": 3237.06,
+      "Vers": 3176.47
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1931"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 81.77,
+    "bossName": "Boss 1",
+    "buildString": "Priest-Discipline-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3610.55,
+      "Mastery": 3440.2,
+      "Crit": 3250.27,
+      "Vers": 3011.31
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1932"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 80.07,
+    "bossName": "Boss 2",
+    "buildString": "Priest-Discipline-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3754.93,
+      "Mastery": 3405.02,
+      "Crit": 3321.19,
+      "Vers": 3030.52
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1933"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 81.03,
+    "bossName": "Boss 3",
+    "buildString": "Priest-Discipline-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3623.97,
+      "Mastery": 3609.25,
+      "Crit": 3250.06,
+      "Vers": 3170.61
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1934"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 79.39,
+    "bossName": "Boss 4",
+    "buildString": "Priest-Discipline-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3655.27,
+      "Mastery": 3535.37,
+      "Crit": 3327.27,
+      "Vers": 2992.89
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1935"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 80.82,
+    "bossName": "Boss 5",
+    "buildString": "Priest-Discipline-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3721.27,
+      "Mastery": 3436.15,
+      "Crit": 3309.07,
+      "Vers": 3080.38
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1936"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 80.69,
+    "bossName": "Boss 6",
+    "buildString": "Priest-Discipline-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3648.41,
+      "Mastery": 3534.75,
+      "Crit": 3378.78,
+      "Vers": 3139.93
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1937"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 75.14,
+    "bossName": "Boss 7",
+    "buildString": "Priest-Discipline-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3740.97,
+      "Mastery": 3449.37,
+      "Crit": 3351.99,
+      "Vers": 3188.1
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1938"
+  },
+  {
+    "role": "HEALER",
+    "className": "Priest",
+    "specName": "Discipline",
+    "parse": 80.21,
+    "bossName": "Boss 8",
+    "buildString": "Priest-Discipline-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3767.99,
+      "Mastery": 3600.63,
+      "Crit": 3204.48,
+      "Vers": 2979.32
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/1939"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 77.55,
+    "bossName": "Boss 1",
+    "buildString": "Paladin-Holy-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3711.99,
+      "Mastery": 3540.4,
+      "Crit": 3381.03,
+      "Vers": 2974.85
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2000"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 79.66,
+    "bossName": "Boss 2",
+    "buildString": "Paladin-Holy-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3637.7,
+      "Mastery": 3580.43,
+      "Crit": 3343.85,
+      "Vers": 3110.83
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2001"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 76.08,
+    "bossName": "Boss 3",
+    "buildString": "Paladin-Holy-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3779.4,
+      "Mastery": 3559.15,
+      "Crit": 3198.88,
+      "Vers": 3104.03
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2002"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 74.48,
+    "bossName": "Boss 4",
+    "buildString": "Paladin-Holy-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3745.3,
+      "Mastery": 3585.31,
+      "Crit": 3338.58,
+      "Vers": 2973.71
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2003"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 78.09,
+    "bossName": "Boss 5",
+    "buildString": "Paladin-Holy-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3697.45,
+      "Mastery": 3456.84,
+      "Crit": 3199.66,
+      "Vers": 3118.24
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2004"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 80.48,
+    "bossName": "Boss 6",
+    "buildString": "Paladin-Holy-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3765.87,
+      "Mastery": 3393.6,
+      "Crit": 3314.49,
+      "Vers": 3065.01
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2005"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 76,
+    "bossName": "Boss 7",
+    "buildString": "Paladin-Holy-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3675.43,
+      "Mastery": 3442.8,
+      "Crit": 3394.83,
+      "Vers": 3072.61
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2006"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 78.02,
+    "bossName": "Boss 8",
+    "buildString": "Paladin-Holy-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3684.58,
+      "Mastery": 3535.83,
+      "Crit": 3266.93,
+      "Vers": 3083.91
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2007"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 80.77,
+    "bossName": "Boss 1",
+    "buildString": "Paladin-Holy-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3754.68,
+      "Mastery": 3535.65,
+      "Crit": 3356.84,
+      "Vers": 2989.47
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2008"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 76.85,
+    "bossName": "Boss 2",
+    "buildString": "Paladin-Holy-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3809.08,
+      "Mastery": 3493.76,
+      "Crit": 3185.27,
+      "Vers": 3100.13
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2009"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 74.31,
+    "bossName": "Boss 3",
+    "buildString": "Paladin-Holy-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3761.41,
+      "Mastery": 3456.26,
+      "Crit": 3371.35,
+      "Vers": 3068.58
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2010"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 73.4,
+    "bossName": "Boss 4",
+    "buildString": "Paladin-Holy-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3752.52,
+      "Mastery": 3478.44,
+      "Crit": 3224.91,
+      "Vers": 2999.2
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2011"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 74.81,
+    "bossName": "Boss 5",
+    "buildString": "Paladin-Holy-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3715.64,
+      "Mastery": 3407.59,
+      "Crit": 3386.98,
+      "Vers": 3006.31
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2012"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 79.51,
+    "bossName": "Boss 6",
+    "buildString": "Paladin-Holy-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3809.89,
+      "Mastery": 3534.22,
+      "Crit": 3398.61,
+      "Vers": 2980.58
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2013"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 80.22,
+    "bossName": "Boss 7",
+    "buildString": "Paladin-Holy-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3742.13,
+      "Mastery": 3471.52,
+      "Crit": 3218.08,
+      "Vers": 3004.03
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2014"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 76.36,
+    "bossName": "Boss 8",
+    "buildString": "Paladin-Holy-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3617.42,
+      "Mastery": 3443.71,
+      "Crit": 3187.06,
+      "Vers": 3093.99
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2015"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 80.7,
+    "bossName": "Boss 1",
+    "buildString": "Paladin-Holy-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3678.77,
+      "Mastery": 3583.65,
+      "Crit": 3326.14,
+      "Vers": 3156.64
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2016"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 77.59,
+    "bossName": "Boss 2",
+    "buildString": "Paladin-Holy-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3816.7,
+      "Mastery": 3440.48,
+      "Crit": 3280.67,
+      "Vers": 3150.96
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2017"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 76.84,
+    "bossName": "Boss 3",
+    "buildString": "Paladin-Holy-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3729.65,
+      "Mastery": 3458.33,
+      "Crit": 3357.66,
+      "Vers": 3024.05
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2018"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 79.34,
+    "bossName": "Boss 4",
+    "buildString": "Paladin-Holy-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3736.15,
+      "Mastery": 3586.97,
+      "Crit": 3355.07,
+      "Vers": 3078.97
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2019"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 74.37,
+    "bossName": "Boss 5",
+    "buildString": "Paladin-Holy-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3820,
+      "Mastery": 3425.77,
+      "Crit": 3364.58,
+      "Vers": 3016.4
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2020"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 76.69,
+    "bossName": "Boss 6",
+    "buildString": "Paladin-Holy-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3769.84,
+      "Mastery": 3462.25,
+      "Crit": 3249.2,
+      "Vers": 3171.37
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2021"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 75.53,
+    "bossName": "Boss 7",
+    "buildString": "Paladin-Holy-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3754.32,
+      "Mastery": 3446.64,
+      "Crit": 3217.18,
+      "Vers": 3106.63
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2022"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 79.39,
+    "bossName": "Boss 8",
+    "buildString": "Paladin-Holy-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3794.58,
+      "Mastery": 3403.92,
+      "Crit": 3293.8,
+      "Vers": 3064.2
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2023"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 80.81,
+    "bossName": "Boss 1",
+    "buildString": "Paladin-Holy-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3675.4,
+      "Mastery": 3544.93,
+      "Crit": 3232.42,
+      "Vers": 2996.45
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2024"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 77.19,
+    "bossName": "Boss 2",
+    "buildString": "Paladin-Holy-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3736.65,
+      "Mastery": 3518.08,
+      "Crit": 3306.52,
+      "Vers": 3138.49
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2025"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 75.55,
+    "bossName": "Boss 3",
+    "buildString": "Paladin-Holy-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3686.56,
+      "Mastery": 3423.14,
+      "Crit": 3344.12,
+      "Vers": 3043.31
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2026"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 73.51,
+    "bossName": "Boss 4",
+    "buildString": "Paladin-Holy-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3618.42,
+      "Mastery": 3508.78,
+      "Crit": 3306.18,
+      "Vers": 3041.11
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2027"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 80.39,
+    "bossName": "Boss 5",
+    "buildString": "Paladin-Holy-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3711.94,
+      "Mastery": 3435.12,
+      "Crit": 3210.36,
+      "Vers": 3064.33
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2028"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 74.56,
+    "bossName": "Boss 6",
+    "buildString": "Paladin-Holy-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3720.96,
+      "Mastery": 3522.74,
+      "Crit": 3281.48,
+      "Vers": 3019.53
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2029"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 80.94,
+    "bossName": "Boss 7",
+    "buildString": "Paladin-Holy-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3788.44,
+      "Mastery": 3589.41,
+      "Crit": 3229.89,
+      "Vers": 3167.55
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2030"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 80.97,
+    "bossName": "Boss 8",
+    "buildString": "Paladin-Holy-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3730.18,
+      "Mastery": 3555.54,
+      "Crit": 3298.85,
+      "Vers": 2972.78
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2031"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 74.78,
+    "bossName": "Boss 1",
+    "buildString": "Paladin-Holy-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3648,
+      "Mastery": 3399.44,
+      "Crit": 3341.79,
+      "Vers": 3042.49
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2032"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 79.83,
+    "bossName": "Boss 2",
+    "buildString": "Paladin-Holy-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3673.38,
+      "Mastery": 3563.12,
+      "Crit": 3230.31,
+      "Vers": 3117.03
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2033"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 73.88,
+    "bossName": "Boss 3",
+    "buildString": "Paladin-Holy-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3722.03,
+      "Mastery": 3609.1,
+      "Crit": 3273.27,
+      "Vers": 3151.25
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2034"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 74.41,
+    "bossName": "Boss 4",
+    "buildString": "Paladin-Holy-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3700.03,
+      "Mastery": 3528.88,
+      "Crit": 3327.62,
+      "Vers": 3087.62
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2035"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 74.43,
+    "bossName": "Boss 5",
+    "buildString": "Paladin-Holy-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3721.61,
+      "Mastery": 3523.09,
+      "Crit": 3240.86,
+      "Vers": 3081.1
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2036"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 74.78,
+    "bossName": "Boss 6",
+    "buildString": "Paladin-Holy-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3678.66,
+      "Mastery": 3573.34,
+      "Crit": 3305.24,
+      "Vers": 3075.6
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2037"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 76.81,
+    "bossName": "Boss 7",
+    "buildString": "Paladin-Holy-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3701.9,
+      "Mastery": 3465.65,
+      "Crit": 3183.45,
+      "Vers": 3051.95
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2038"
+  },
+  {
+    "role": "HEALER",
+    "className": "Paladin",
+    "specName": "Holy",
+    "parse": 75.43,
+    "bossName": "Boss 8",
+    "buildString": "Paladin-Holy-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3753.2,
+      "Mastery": 3484.91,
+      "Crit": 3265.25,
+      "Vers": 3066.67
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2039"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 75.17,
+    "bossName": "Boss 1",
+    "buildString": "Evoker-Preservation-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3668.52,
+      "Mastery": 3579.96,
+      "Crit": 3394.55,
+      "Vers": 3080.97
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2100"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 73.95,
+    "bossName": "Boss 2",
+    "buildString": "Evoker-Preservation-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3650.81,
+      "Mastery": 3418.32,
+      "Crit": 3365.93,
+      "Vers": 3019.16
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2101"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 72.34,
+    "bossName": "Boss 3",
+    "buildString": "Evoker-Preservation-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3671.85,
+      "Mastery": 3549.65,
+      "Crit": 3209.81,
+      "Vers": 3055.31
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2102"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 74,
+    "bossName": "Boss 4",
+    "buildString": "Evoker-Preservation-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3761.96,
+      "Mastery": 3496.95,
+      "Crit": 3265.01,
+      "Vers": 3027.16
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2103"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 78.92,
+    "bossName": "Boss 5",
+    "buildString": "Evoker-Preservation-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3646.4,
+      "Mastery": 3594.15,
+      "Crit": 3377.38,
+      "Vers": 3175.88
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2104"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 78.38,
+    "bossName": "Boss 6",
+    "buildString": "Evoker-Preservation-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3707.09,
+      "Mastery": 3528.67,
+      "Crit": 3203.33,
+      "Vers": 3130.33
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2105"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 74.01,
+    "bossName": "Boss 7",
+    "buildString": "Evoker-Preservation-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3748.28,
+      "Mastery": 3527.73,
+      "Crit": 3396.59,
+      "Vers": 3094.28
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2106"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 72.97,
+    "bossName": "Boss 8",
+    "buildString": "Evoker-Preservation-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3744.52,
+      "Mastery": 3566.62,
+      "Crit": 3276.74,
+      "Vers": 3055.19
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2107"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 75.23,
+    "bossName": "Boss 1",
+    "buildString": "Evoker-Preservation-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3709.64,
+      "Mastery": 3457.66,
+      "Crit": 3338.11,
+      "Vers": 3092.88
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2108"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 76.75,
+    "bossName": "Boss 2",
+    "buildString": "Evoker-Preservation-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3784.92,
+      "Mastery": 3598.03,
+      "Crit": 3357.22,
+      "Vers": 3026.61
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2109"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 72.62,
+    "bossName": "Boss 3",
+    "buildString": "Evoker-Preservation-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3665.12,
+      "Mastery": 3515.21,
+      "Crit": 3357.5,
+      "Vers": 3158.98
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2110"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 76.13,
+    "bossName": "Boss 4",
+    "buildString": "Evoker-Preservation-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3780.7,
+      "Mastery": 3488.25,
+      "Crit": 3249.64,
+      "Vers": 3035.29
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2111"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 73.55,
+    "bossName": "Boss 5",
+    "buildString": "Evoker-Preservation-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3614.96,
+      "Mastery": 3523.71,
+      "Crit": 3346.21,
+      "Vers": 3056.88
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2112"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 74.81,
+    "bossName": "Boss 6",
+    "buildString": "Evoker-Preservation-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3754.58,
+      "Mastery": 3424.73,
+      "Crit": 3329.31,
+      "Vers": 3007.14
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2113"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 75.79,
+    "bossName": "Boss 7",
+    "buildString": "Evoker-Preservation-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3752.44,
+      "Mastery": 3512.24,
+      "Crit": 3189.96,
+      "Vers": 2989.21
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2114"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 76.39,
+    "bossName": "Boss 8",
+    "buildString": "Evoker-Preservation-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3721.6,
+      "Mastery": 3576.95,
+      "Crit": 3278.24,
+      "Vers": 3034.12
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2115"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 74.2,
+    "bossName": "Boss 1",
+    "buildString": "Evoker-Preservation-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3719.5,
+      "Mastery": 3581.57,
+      "Crit": 3243.34,
+      "Vers": 3138.75
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2116"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 73.78,
+    "bossName": "Boss 2",
+    "buildString": "Evoker-Preservation-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3781.53,
+      "Mastery": 3472.12,
+      "Crit": 3382.78,
+      "Vers": 3072.8
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2117"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 71.59,
+    "bossName": "Boss 3",
+    "buildString": "Evoker-Preservation-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3723.53,
+      "Mastery": 3418.22,
+      "Crit": 3340.27,
+      "Vers": 3054.34
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2118"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 72.45,
+    "bossName": "Boss 4",
+    "buildString": "Evoker-Preservation-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3812.64,
+      "Mastery": 3601.58,
+      "Crit": 3211.93,
+      "Vers": 3093.69
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2119"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 73.6,
+    "bossName": "Boss 5",
+    "buildString": "Evoker-Preservation-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3666.57,
+      "Mastery": 3552.85,
+      "Crit": 3320.82,
+      "Vers": 2985.59
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2120"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 72.35,
+    "bossName": "Boss 6",
+    "buildString": "Evoker-Preservation-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3780.98,
+      "Mastery": 3456.76,
+      "Crit": 3319.65,
+      "Vers": 3169.63
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2121"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 73.23,
+    "bossName": "Boss 7",
+    "buildString": "Evoker-Preservation-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3745.42,
+      "Mastery": 3465.8,
+      "Crit": 3262.35,
+      "Vers": 3159.58
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2122"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 78.88,
+    "bossName": "Boss 8",
+    "buildString": "Evoker-Preservation-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3748.28,
+      "Mastery": 3442.93,
+      "Crit": 3344.58,
+      "Vers": 3041.81
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2123"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 72.37,
+    "bossName": "Boss 1",
+    "buildString": "Evoker-Preservation-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3651.09,
+      "Mastery": 3574.01,
+      "Crit": 3194.2,
+      "Vers": 2983.84
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2124"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 79.34,
+    "bossName": "Boss 2",
+    "buildString": "Evoker-Preservation-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3813.32,
+      "Mastery": 3430.66,
+      "Crit": 3352.38,
+      "Vers": 3173.67
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2125"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 77.69,
+    "bossName": "Boss 3",
+    "buildString": "Evoker-Preservation-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3708.35,
+      "Mastery": 3444.68,
+      "Crit": 3226.41,
+      "Vers": 3091.14
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2126"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 75.02,
+    "bossName": "Boss 4",
+    "buildString": "Evoker-Preservation-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3611.96,
+      "Mastery": 3515.16,
+      "Crit": 3215.52,
+      "Vers": 2972.39
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2127"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 73.88,
+    "bossName": "Boss 5",
+    "buildString": "Evoker-Preservation-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3644.37,
+      "Mastery": 3589.41,
+      "Crit": 3310.76,
+      "Vers": 3068.83
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2128"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 76.74,
+    "bossName": "Boss 6",
+    "buildString": "Evoker-Preservation-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3687.43,
+      "Mastery": 3579.3,
+      "Crit": 3230.55,
+      "Vers": 3121.94
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2129"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 74.93,
+    "bossName": "Boss 7",
+    "buildString": "Evoker-Preservation-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3738.15,
+      "Mastery": 3494.33,
+      "Crit": 3213.3,
+      "Vers": 3155.5
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2130"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 77.36,
+    "bossName": "Boss 8",
+    "buildString": "Evoker-Preservation-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3600.38,
+      "Mastery": 3573.01,
+      "Crit": 3268.66,
+      "Vers": 3166.7
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2131"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 75.36,
+    "bossName": "Boss 1",
+    "buildString": "Evoker-Preservation-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3675.83,
+      "Mastery": 3534.04,
+      "Crit": 3308.82,
+      "Vers": 3037.76
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2132"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 79.43,
+    "bossName": "Boss 2",
+    "buildString": "Evoker-Preservation-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3776.37,
+      "Mastery": 3588.99,
+      "Crit": 3281.62,
+      "Vers": 3109.47
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2133"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 76.12,
+    "bossName": "Boss 3",
+    "buildString": "Evoker-Preservation-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3698.77,
+      "Mastery": 3477.73,
+      "Crit": 3306.87,
+      "Vers": 2998.36
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2134"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 73.09,
+    "bossName": "Boss 4",
+    "buildString": "Evoker-Preservation-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3803.7,
+      "Mastery": 3488.44,
+      "Crit": 3377.26,
+      "Vers": 3058.76
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2135"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 72.25,
+    "bossName": "Boss 5",
+    "buildString": "Evoker-Preservation-RAID-BUILD-1",
+    "stats": {
+      "Haste": 3620.18,
+      "Mastery": 3503.32,
+      "Crit": 3285.49,
+      "Vers": 2991.2
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2136"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 75.28,
+    "bossName": "Boss 6",
+    "buildString": "Evoker-Preservation-RAID-BUILD-2",
+    "stats": {
+      "Haste": 3756.87,
+      "Mastery": 3591.4,
+      "Crit": 3218.61,
+      "Vers": 3098.48
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2137"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 73.32,
+    "bossName": "Boss 7",
+    "buildString": "Evoker-Preservation-RAID-BUILD-3",
+    "stats": {
+      "Haste": 3641.41,
+      "Mastery": 3509.66,
+      "Crit": 3260.92,
+      "Vers": 3130.31
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2138"
+  },
+  {
+    "role": "HEALER",
+    "className": "Evoker",
+    "specName": "Preservation",
+    "parse": 77.03,
+    "bossName": "Boss 8",
+    "buildString": "Evoker-Preservation-RAID-BUILD-4",
+    "stats": {
+      "Haste": 3668.97,
+      "Mastery": 3533.4,
+      "Crit": 3346.32,
+      "Vers": 3117.7
+    },
+    "evidenceUrl": "https://www.warcraftlogs.com/character/id/2139"
+  }
+]

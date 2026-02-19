@@ -1,0 +1,123 @@
+services:
+  - type: redis
+    name: wow-tier-redis
+    plan: free
+    maxmemoryPolicy: allkeys-lru
+
+  - type: web
+    name: wow-tier-web
+    env: node
+    plan: free
+    autoDeploy: true
+    buildCommand: npm install && npm run build
+    startCommand: sh -c "npm run prisma:deploy && npm run start"
+    envVars:
+      - key: NODE_VERSION
+        value: 22
+      - key: NODE_ENV
+        value: production
+      - key: DATABASE_URL
+        fromDatabase:
+          name: wow-tier-postgres
+          property: connectionString
+      - key: REDIS_URL
+        fromService:
+          type: redis
+          name: wow-tier-redis
+          property: connectionString
+      - key: MOCK_MODE
+        value: true
+      - key: ENABLE_SEED_ON_START
+        value: true
+      - key: RAIDER_IO_BASE_URL
+        value: https://raider.io
+      - key: RAIDER_IO_MPLUS_ENDPOINT
+        value: /api/v1/mythic-plus/runs
+      - key: WARCRAFTLOGS_BASE_URL
+        value: https://www.warcraftlogs.com
+      - key: WARCRAFTLOGS_ZONE_ID
+        value: "38"
+      - key: WARCRAFTLOGS_DIFFICULTY
+        value: "5"
+      - key: REFRESH_INTERVAL_MINUTES
+        value: "30"
+      - key: WORKER_MODE
+        value: interval
+      - key: QUEUE_NAME
+        value: wow-tier-refresh
+      - key: QUEUE_CONCURRENCY
+        value: "2"
+      - key: API_CONCURRENCY
+        value: "4"
+      - key: ADMIN_USERNAME
+        value: admin
+      - key: ADMIN_PASSWORD
+        generateValue: true
+      - key: CRON_SECRET
+        generateValue: true
+      - key: WARCRAFTLOGS_CLIENT_ID
+        sync: false
+      - key: WARCRAFTLOGS_CLIENT_SECRET
+        sync: false
+
+  - type: worker
+    name: wow-tier-worker
+    env: node
+    plan: free
+    autoDeploy: true
+    buildCommand: npm install && npm run build
+    startCommand: sh -c "npm run prisma:deploy && npm run worker"
+    envVars:
+      - key: NODE_VERSION
+        value: 22
+      - key: NODE_ENV
+        value: production
+      - key: DATABASE_URL
+        fromDatabase:
+          name: wow-tier-postgres
+          property: connectionString
+      - key: REDIS_URL
+        fromService:
+          type: redis
+          name: wow-tier-redis
+          property: connectionString
+      - key: MOCK_MODE
+        value: true
+      - key: ENABLE_SEED_ON_START
+        value: true
+      - key: RAIDER_IO_BASE_URL
+        value: https://raider.io
+      - key: RAIDER_IO_MPLUS_ENDPOINT
+        value: /api/v1/mythic-plus/runs
+      - key: WARCRAFTLOGS_BASE_URL
+        value: https://www.warcraftlogs.com
+      - key: WARCRAFTLOGS_ZONE_ID
+        value: "38"
+      - key: WARCRAFTLOGS_DIFFICULTY
+        value: "5"
+      - key: REFRESH_INTERVAL_MINUTES
+        value: "30"
+      - key: WORKER_MODE
+        value: interval
+      - key: QUEUE_NAME
+        value: wow-tier-refresh
+      - key: QUEUE_CONCURRENCY
+        value: "2"
+      - key: API_CONCURRENCY
+        value: "4"
+      - key: ADMIN_USERNAME
+        value: admin
+      - key: ADMIN_PASSWORD
+        sync: false
+      - key: CRON_SECRET
+        sync: false
+      - key: WARCRAFTLOGS_CLIENT_ID
+        sync: false
+      - key: WARCRAFTLOGS_CLIENT_SECRET
+        sync: false
+
+databases:
+  - name: wow-tier-postgres
+    databaseName: wow_tier_list
+    user: wow_tier_list
+    plan: free

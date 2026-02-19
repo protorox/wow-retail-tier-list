@@ -1,0 +1,111 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum Mode {
+  MYTHIC_PLUS
+  RAID
+}
+
+enum Role {
+  DPS
+  TANK
+  HEALER
+}
+
+enum Tier {
+  S
+  A_PLUS
+  A
+  B_PLUS
+  B
+  C
+}
+
+model Snapshot {
+  id           String      @id @default(cuid())
+  mode         Mode
+  createdAt    DateTime    @default(now())
+  metadataJson Json?
+  specScores   SpecScore[]
+  specBuilds   SpecBuild[]
+  specStats    SpecStats[]
+
+  @@index([mode, createdAt])
+}
+
+model SpecScore {
+  id           String   @id @default(cuid())
+  snapshotId   String
+  snapshot     Snapshot @relation(fields: [snapshotId], references: [id], onDelete: Cascade)
+  mode         Mode
+  role         Role
+  className    String
+  specName     String
+  score        Float
+  tier         Tier
+  sampleSize   Int
+  rank         Int
+  previousRank Int?
+  rawJson      Json?
+
+  @@index([snapshotId, role, rank])
+  @@index([mode, role, score])
+  @@unique([snapshotId, mode, role, className, specName])
+}
+
+model SpecBuild {
+  id                      String   @id @default(cuid())
+  snapshotId              String
+  snapshot                Snapshot @relation(fields: [snapshotId], references: [id], onDelete: Cascade)
+  mode                    Mode
+  role                    Role
+  className               String
+  specName                String
+  buildJson               Json
+  buildSource             String
+  buildImportStringNullable String?
+
+  @@index([snapshotId, mode, role])
+  @@unique([snapshotId, mode, role, className, specName])
+}
+
+model SpecStats {
+  id         String   @id @default(cuid())
+  snapshotId String
+  snapshot   Snapshot @relation(fields: [snapshotId], references: [id], onDelete: Cascade)
+  mode       Mode
+  role       Role
+  className  String
+  specName   String
+  statsJson  Json
+
+  @@index([snapshotId, mode, role])
+  @@unique([snapshotId, mode, role, className, specName])
+}
+
+model AppConfig {
+  id         Int      @id
+  updatedAt  DateTime @updatedAt
+  configJson Json
+}
+
+model JobRun {
+  id           String   @id @default(cuid())
+  startedAt    DateTime @default(now())
+  finishedAt   DateTime?
+  status       String
+  durationMs   Int?
+  itemsUpdated Int?
+  mode         Mode?
+  errorMessage String?
+  metadataJson Json?
+
+  @@index([startedAt])
+  @@index([status])
+}
