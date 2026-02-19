@@ -29,7 +29,7 @@ services:
           name: wow-tier-redis
           property: connectionString
       - key: MOCK_MODE
-        value: true
+        value: false
       - key: ENABLE_SEED_ON_START
         value: true
       - key: RAIDER_IO_BASE_URL
@@ -59,9 +59,17 @@ services:
       - key: CRON_SECRET
         value: wow-tier-cron-secret
       - key: WARCRAFTLOGS_CLIENT_ID
-        value: mock
+        sync: false
       - key: WARCRAFTLOGS_CLIENT_SECRET
-        value: mock
+        sync: false
+      - key: WARCRAFTLOGS_MPLUS_ZONE_ID
+        value: "20"
+      - key: WARCRAFTLOGS_MPLUS_DIFFICULTY
+        value: "10"
+      - key: WARCRAFTLOGS_MPLUS_BRACKET
+        value: "10"
+      - key: WARCRAFTLOGS_MPLUS_PAGES
+        value: "12"
 
   - type: worker
     name: wow-tier-worker
@@ -87,7 +95,7 @@ services:
           name: wow-tier-redis
           property: connectionString
       - key: MOCK_MODE
-        value: true
+        value: false
       - key: ENABLE_SEED_ON_START
         value: true
       - key: RAIDER_IO_BASE_URL
@@ -117,9 +125,17 @@ services:
       - key: CRON_SECRET
         value: wow-tier-cron-secret
       - key: WARCRAFTLOGS_CLIENT_ID
-        value: mock
+        sync: false
       - key: WARCRAFTLOGS_CLIENT_SECRET
-        value: mock
+        sync: false
+      - key: WARCRAFTLOGS_MPLUS_ZONE_ID
+        value: "20"
+      - key: WARCRAFTLOGS_MPLUS_DIFFICULTY
+        value: "10"
+      - key: WARCRAFTLOGS_MPLUS_BRACKET
+        value: "10"
+      - key: WARCRAFTLOGS_MPLUS_PAGES
+        value: "12"
 
 databases:
   - name: wow-tier-postgres

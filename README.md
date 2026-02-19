@@ -1,7 +1,7 @@
 # WoW Retail Tier List
 
 Production-oriented Next.js app that generates live, data-driven tier lists for WoW Retail from:
-- Mythic+: Raider.IO public REST API
+- Mythic+: Warcraft Logs v2 (OAuth + GraphQL)
 - Raid: Warcraft Logs v2 (OAuth + GraphQL)
 
 The UI renders separate tier lists for Mythic+ and Raid, each split by role (DPS, Tank, Healer) with spec details, build aggregation, stat priority derivation, and evidence links.
@@ -16,11 +16,12 @@ This repo includes a `render.yaml` Blueprint that provisions:
 - PostgreSQL
 - Redis
 
-Default Blueprint env uses `MOCK_MODE=true` so it comes up with working sample data quickly.
+Default Blueprint env uses `MOCK_MODE=false` for live data.
 Default admin credentials in Blueprint are `admin` / `admin` (change after first deploy).
-To switch to live data after deploy, set `MOCK_MODE=false` and add:
+You must provide Warcraft Logs credentials:
 - `WARCRAFTLOGS_CLIENT_ID`
 - `WARCRAFTLOGS_CLIENT_SECRET`
+To use local fixtures instead, set `MOCK_MODE=true`.
 
 ## Stack
 
@@ -106,7 +107,7 @@ cp .env.example .env
 Key vars:
 - `DATABASE_URL`
 - `REDIS_URL`
-- `MOCK_MODE=true` (default, uses fixture JSON)
+- `MOCK_MODE=false` (default, set `true` to use fixture JSON)
 - `RAIDER_IO_BASE_URL`
 - `WARCRAFTLOGS_CLIENT_ID`
 - `WARCRAFTLOGS_CLIENT_SECRET`
@@ -185,9 +186,9 @@ Configuration lives in `AppConfig.configJson`.
 
 ### Mythic+ scoring
 
-1. Pull top-run style payloads from Raider.IO.
+1. Pull Mythic+ character rankings from Warcraft Logs dungeon zone encounters.
 2. Group by `(role, class, spec)`.
-3. For each spec, take top `N` (default `200`) entries.
+3. For each spec, take top `N` (default `200`) entries from the larger paged ranking sample.
 4. Compute adjusted metric per run:
    - `keyLevel + timedBonus` (timed)
    - `keyLevel + overtimePenalty` (overtime)

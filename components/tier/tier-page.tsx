@@ -14,6 +14,7 @@ type SnapshotPayload = {
   snapshotId: string;
   mode: Mode;
   createdAt: string;
+  metadataJson?: unknown;
   specs: Array<{
     id: string;
     mode: Mode;
@@ -85,6 +86,11 @@ function parseEvidenceUrls(rawJson: unknown): string[] {
 export function TierPage({ snapshot, initialRole }: { snapshot: SnapshotPayload; initialRole: Role }) {
   const [role, setRole] = useState<Role>(initialRole);
   const [selectedSpecId, setSelectedSpecId] = useState<string | null>(null);
+  const lowSampleThreshold = useMemo(() => {
+    if (!snapshot.metadataJson || typeof snapshot.metadataJson !== "object") return 20;
+    const candidate = (snapshot.metadataJson as { minSampleSize?: unknown }).minSampleSize;
+    return typeof candidate === "number" && Number.isFinite(candidate) ? candidate : 20;
+  }, [snapshot.metadataJson]);
 
   const selectedSpec = snapshot.specs.find((spec) => spec.id === selectedSpecId) ?? null;
 
@@ -162,6 +168,11 @@ export function TierPage({ snapshot, initialRole }: { snapshot: SnapshotPayload;
                                 <span className="font-semibold">
                                   {spec.specName} {spec.className}
                                 </span>
+                                {spec.sampleSize < lowSampleThreshold && (
+                                  <span className="rounded bg-amber-100 px-2 py-0.5 text-[10px] font-medium text-amber-700">
+                                    Low sample
+                                  </span>
+                                )}
                               </div>
                               <span className="rounded bg-secondary px-2 py-0.5 text-xs">#{spec.rank}</span>
                             </div>
@@ -190,6 +201,7 @@ export function TierPage({ snapshot, initialRole }: { snapshot: SnapshotPayload;
             </DrawerTitle>
             <DrawerDescription className="text-sm text-muted-foreground">
               Score {selectedSpec.score.toFixed(2)} | Rank #{selectedSpec.rank}
+              {selectedSpec.sampleSize < lowSampleThreshold ? ` | Low sample (< ${lowSampleThreshold})` : ""}
             </DrawerDescription>
 
             <div className="mt-6 space-y-6">

@@ -7,8 +7,7 @@ import { deriveStatPriority } from "@/src/server/aggregation/stats";
 import { assignTier } from "@/src/server/scoring/tiering";
 import { scoreMythicPlus } from "@/src/server/scoring/mythic-plus";
 import { scoreRaid } from "@/src/server/scoring/raid";
-import { fetchMythicPlusEntries } from "@/src/server/providers/raiderio";
-import { fetchRaidEntries } from "@/src/server/providers/warcraftlogs";
+import { fetchMythicPlusEntriesFromWarcraftLogs, fetchRaidEntries } from "@/src/server/providers/warcraftlogs";
 import type { SpecAggregate } from "@/src/server/types/performance";
 import type { AppConfig } from "@/src/server/config/app-config";
 
@@ -148,13 +147,15 @@ export async function runRefresh(input: RefreshRunInput = {}): Promise<{ updated
     let updated = 0;
 
     if (mode === "ALL" || mode === "MYTHIC_PLUS") {
-      const entries = await fetchMythicPlusEntries(config);
+      const entries = await fetchMythicPlusEntriesFromWarcraftLogs(config);
       const scored = scoreMythicPlus(entries, config);
       if (scored.length > 0) {
         updated += await persistSnapshot(Mode.MYTHIC_PLUS, scored, config, {
-          source: "raider.io",
+          source: "warcraftlogs_mythic_plus",
           entryCount: entries.length,
           scoredCount: scored.length,
+          minSampleSize: config.mythicPlus.minSampleSize,
+          topN: config.mythicPlus.topN,
           trigger: input.trigger ?? "manual"
         });
       } else {
@@ -170,6 +171,8 @@ export async function runRefresh(input: RefreshRunInput = {}): Promise<{ updated
           source: "warcraftlogs",
           entryCount: entries.length,
           scoredCount: scored.length,
+          minSampleSize: config.raid.minSampleSize,
+          topN: config.raid.topN,
           trigger: input.trigger ?? "manual"
         });
       } else {

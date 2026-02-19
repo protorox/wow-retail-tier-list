@@ -76,6 +76,7 @@ export default async function Home({
             snapshotId: snapshot.snapshotId,
             mode: snapshot.mode,
             createdAt: snapshot.createdAt.toISOString(),
+            metadataJson: snapshot.metadataJson,
             specs: snapshot.specs
           }}
         />

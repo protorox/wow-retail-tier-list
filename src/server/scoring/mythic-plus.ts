@@ -33,25 +33,25 @@ function groupBySpec(entries: PerformerEntry[]): Grouped[] {
 }
 
 export function scoreMythicPlus(entries: PerformerEntry[], config: AppConfig): SpecAggregate[] {
-  const bySpec = groupBySpec(entries)
-    .map((group) => {
-      const topEntries = [...group.entries].sort((a, b) => b.metric - a.metric).slice(0, config.mythicPlus.topN);
-      const adjustedLevels = topEntries.map((entry) =>
-        entry.metric + (entry.timed ? config.mythicPlus.timedBonus : config.mythicPlus.overtimePenalty)
-      );
+  const bySpec = groupBySpec(entries).map((group) => {
+    const topEntries = [...group.entries].sort((a, b) => b.metric - a.metric).slice(0, config.mythicPlus.topN);
+    const adjustedLevels = topEntries.map((entry) => {
+      const timedAdjustment =
+        entry.timed === true ? config.mythicPlus.timedBonus : entry.timed === false ? config.mythicPlus.overtimePenalty : 0;
+      return entry.metric + timedAdjustment;
+    });
 
-      return {
-        mode: group.mode,
-        role: group.role,
-        className: group.className,
-        specName: group.specName,
-        scoreRaw: median(adjustedLevels),
-        sampleSize: topEntries.length,
-        evidenceUrls: [...new Set(topEntries.map((entry) => entry.evidenceUrl))].slice(0, 5),
-        rawEntries: topEntries
-      };
-    })
-    .filter((spec) => spec.sampleSize >= config.mythicPlus.minSampleSize);
+    return {
+      mode: group.mode,
+      role: group.role,
+      className: group.className,
+      specName: group.specName,
+      scoreRaw: median(adjustedLevels),
+      sampleSize: topEntries.length,
+      evidenceUrls: [...new Set(topEntries.map((entry) => entry.evidenceUrl))].slice(0, 5),
+      rawEntries: topEntries
+    };
+  });
 
   const byRole = new Map<string, typeof bySpec>();
   for (const spec of bySpec) {
