@@ -1,8 +1,9 @@
 services:
-  - type: redis
+  - type: keyvalue
     name: wow-tier-redis
     plan: free
     maxmemoryPolicy: allkeys-lru
+    ipAllowList: []
 
   - type: web
     name: wow-tier-web
@@ -22,7 +23,7 @@ services:
           property: connectionString
       - key: REDIS_URL
         fromService:
-          type: redis
+          type: keyvalue
           name: wow-tier-redis
           property: connectionString
       - key: MOCK_MODE
@@ -78,7 +79,7 @@ services:
           property: connectionString
       - key: REDIS_URL
         fromService:
-          type: redis
+          type: keyvalue
           name: wow-tier-redis
           property: connectionString
       - key: MOCK_MODE
