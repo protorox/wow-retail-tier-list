@@ -17,6 +17,7 @@ This repo includes a `render.yaml` Blueprint that provisions:
 - Redis
 
 Default Blueprint env uses `MOCK_MODE=true` so it comes up with working sample data quickly.
+Default admin credentials in Blueprint are `admin` / `admin` (change after first deploy).
 To switch to live data after deploy, set `MOCK_MODE=false` and add:
 - `WARCRAFTLOGS_CLIENT_ID`
 - `WARCRAFTLOGS_CLIENT_SECRET`

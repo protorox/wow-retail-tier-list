@@ -55,13 +55,13 @@ services:
       - key: ADMIN_USERNAME
         value: admin
       - key: ADMIN_PASSWORD
-        generateValue: true
+        value: admin
       - key: CRON_SECRET
-        generateValue: true
+        value: wow-tier-cron-secret
       - key: WARCRAFTLOGS_CLIENT_ID
-        sync: false
+        value: mock
       - key: WARCRAFTLOGS_CLIENT_SECRET
-        sync: false
+        value: mock
 
   - type: worker
     name: wow-tier-worker
@@ -113,13 +113,13 @@ services:
       - key: ADMIN_USERNAME
         value: admin
       - key: ADMIN_PASSWORD
-        sync: false
+        value: admin
       - key: CRON_SECRET
-        sync: false
+        value: wow-tier-cron-secret
       - key: WARCRAFTLOGS_CLIENT_ID
-        sync: false
+        value: mock
       - key: WARCRAFTLOGS_CLIENT_SECRET
-        sync: false
+        value: mock
 
 databases:
   - name: wow-tier-postgres

@@ -13,16 +13,16 @@ async function bootstrapSeed(): Promise<boolean> {
 
   const existingSnapshots = await prisma.snapshot.count();
   if (existingSnapshots > 0) {
-    logger.info({ existingSnapshots }, "Skipping seed enqueue; snapshots already exist");
+    logger.info({ existingSnapshots }, "Skipping seed refresh; snapshots already exist");
     return false;
   }
 
-  await enqueueRefreshJob({
+  logger.info("No snapshots found; running seed refresh immediately");
+  await runRefresh({
     mode: "ALL",
     trigger: "seed"
   });
-
-  logger.info("Seed refresh job enqueued on startup");
+  logger.info("Seed refresh completed on startup");
   return true;
 }
 
